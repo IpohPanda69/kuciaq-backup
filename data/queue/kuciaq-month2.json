@@ -1,0 +1,1678 @@
+[
+  {
+    "id": "kq-m2-001",
+    "date": "2026-05-04",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-04T02:00:00Z",
+    "text": "korang pernah tak perasan mulut kucing bau macam ikan busuk padahal baru makan 😂 aku cerita kat bawah ni",
+    "pillar": "value-instructional",
+    "status": "pending",
+    "thread_parts": [
+      "korang pernah tak perasan mulut kucing bau macam ikan busuk padahal baru makan",
+      "benda ni bukan pasal makanan je tapi sebab plaque buildup kat gigi dia",
+      "kucing memang tak gosok gigi sendiri macam manusia",
+      "plaque tu lama lama jadi tartar dan tartar tu penyebab utama bau mulut",
+      "kalau bau dah kuat maknanya ada bacteria banyak dalam mulut dia",
+      "step pertama tambah Nanovet Pet Dental Care Water Additive dalam air minum dia every day",
+      "step kedua cuba gosok gigi dia with cat toothpaste at least 2-3 kali seminggu",
+      "step ketiga bagi dental treat once a week untuk scraping plaque naturally",
+      "kalau dah teruk sangat memang kena hantar vet untuk professional cleaning"
+    ],
+    "strategy": {
+      "contentType": "value-instructional",
+      "topic": "cat-dental-hygiene",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-002",
+    "date": "2026-05-04",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-04T07:00:00Z",
+    "text": "kucing yang tidur atas kepala kau every night. apa maksudnya 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-behavior-sleep",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-003",
+    "date": "2026-05-04",
+    "slot": "night",
+    "scheduled_utc": "2026-05-04T12:00:00Z",
+    "text": "kucing aku tidur 18 jam sehari tapi kalau aku buka laptop dia terus duduk atas keyboard macam tu 💀",
+    "pillar": "funny-observation",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "funny-observation",
+      "topic": "cat-laptop-humor",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-004",
+    "date": "2026-05-05",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-05T02:00:00Z",
+    "text": "yang tak tahu pasal ni memang rugi kenapa kucing korang selalu muntah lepas makan",
+    "pillar": "soft-shill",
+    "status": "pending",
+    "thread_parts": [
+      "yang tak tahu pasal ni memang rugi kenapa kucing korang selalu muntah lepas makan",
+      "bukan semua muntah tu normal weh",
+      "kalau seminggu lebih dari 2 kali memang ada problem",
+      "mula mula check jenis makanan dia maybe allergy pada ingredient tertentu",
+      "lepas tu tengok cara dia makan kucing yang makan laju memang senang muntah",
+      "cara fix beli slow feeder bowl atau letak makanan sikit sikit",
+      "aku pakai Nanovet Smart Pet Feeder ni boleh set portion control terus reduce muntah",
+      "kalau muntah ada darah atau warna hijau terus bawa vet jangan tunggu",
+      "link https://s.shopee.com.my/5AosJ5BogD"
+    ],
+    "affiliateLink": "https://s.shopee.com.my/5AosJ5BogD",
+    "productId": "k-aff-005",
+    "strategy": {
+      "contentType": "soft-shill",
+      "topic": "cat-vomiting-portion-control",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-005",
+    "date": "2026-05-05",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-05T07:00:00Z",
+    "text": "yang pernah bela lebih dari 1 kucing. apa perangai paling berbeza antara kucing korang 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "multi-cat-personality",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-006",
+    "date": "2026-05-05",
+    "slot": "night",
+    "scheduled_utc": "2026-05-05T12:00:00Z",
+    "text": "unpopular opinion kalau kau tak boleh afford rawatan vet untuk kucing kau maybe jangan bela dulu 💀",
+    "pillar": "hot-take",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "hot-take",
+      "topic": "pet-responsibility",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-007",
+    "date": "2026-05-06",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-06T02:00:00Z",
+    "text": "korang perasan tak kucing selalu jilat bulu sendiri tapi masih berbau 😂 aku bagi tahu kenapa",
+    "pillar": "soft-shill",
+    "status": "pending",
+    "thread_parts": [
+      "korang perasan tak kucing selalu jilat bulu sendiri tapi masih berbau",
+      "sebab jilat tu bukan mandi weh",
+      "lidah kucing ada texture macam brush tapi tak boleh bersihkan deeply",
+      "kalau bulu dah tebal minyak dan dirt memang terperangkap kat bawah",
+      "step pertama sikat bulu dia at least 3 kali seminggu",
+      "step kedua bagi dia makan food yang support skin health macam Royal Canin Hair and Skin Care ni",
+      "step ketiga check telinga dan gigi sebab bau kadang datang dari situ bukan dari bulu",
+      "step keempat mandi dia once a month with cat shampoo je jangan selalu sangat",
+      "link food tu https://s.shopee.com.my/6fdg5v2EKM"
+    ],
+    "affiliateLink": "https://s.shopee.com.my/6fdg5v2EKM",
+    "productId": "k-aff-007",
+    "strategy": {
+      "contentType": "soft-shill",
+      "topic": "cat-grooming-odor",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-008",
+    "date": "2026-05-06",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-06T07:00:00Z",
+    "text": "kucing kepada owner. apa benda paling annoying yang kucing kau buat setiap hari tanpa gagal 😂",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-annoying-habits",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-009",
+    "date": "2026-05-06",
+    "slot": "night",
+    "scheduled_utc": "2026-05-06T12:00:00Z",
+    "text": "kucing aku selalu meow kuat pukul 3 pagi macam ada hantu padahal nak makan je 🐱",
+    "pillar": "funny-observation",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "funny-observation",
+      "topic": "cat-night-meowing",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-010",
+    "date": "2026-05-07",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-07T02:00:00Z",
+    "text": "aku bagi tahu kenapa kucing korang selalu scratching perabot sampai rosak",
+    "pillar": "value-instructional",
+    "status": "pending",
+    "thread_parts": [
+      "aku bagi tahu kenapa kucing korang selalu scratching perabot sampai rosak",
+      "bukan sebab dia jahat tapi sebab instinct memang macam tu",
+      "kucing scratch untuk sharpen claw mark territory dan stretch muscle",
+      "kalau tak bagi scratching post memang dia cari alternative sendiri",
+      "step pertama beli scratching post yang stable jangan yang goyang goyang",
+      "step kedua letak dekat area yang dia selalu scratch tu",
+      "step ketiga spray catnip kat scratching post supaya dia tertarik",
+      "step keempat trim claw dia every 2 weeks",
+      "jangan marah dia sebab tu nature dia bukan nak buat kau marah"
+    ],
+    "strategy": {
+      "contentType": "value-instructional",
+      "topic": "cat-scratching-behavior",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-011",
+    "date": "2026-05-07",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-07T07:00:00Z",
+    "text": "yang ada kucing jenis pemalas. macam mana korang pujuk dia exercise 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "lazy-cat-exercise",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-012",
+    "date": "2026-05-07",
+    "slot": "night",
+    "scheduled_utc": "2026-05-07T12:00:00Z",
+    "text": "free food je kau bagi kucing kau makan. jangan salahkan dia obesiti lepas tu 💀",
+    "pillar": "hot-take",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "hot-take",
+      "topic": "cat-obesity-responsibility",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-013",
+    "date": "2026-05-08",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-08T02:00:00Z",
+    "text": "korang pernah tak pergi kerja then balik rumah jumpa barang semua dah jatuh 😂 sebab apa aku cerita",
+    "pillar": "value-instructional",
+    "status": "pending",
+    "thread_parts": [
+      "korang pernah tak pergi kerja then balik rumah jumpa barang semua dah jatuh",
+      "kucing bukan buat sebab nak marah kau",
+      "boredom adalah punca utama kucing destructive",
+      "kucing indoor yang tak ada stimulation memang cari cara sendiri untuk entertain",
+      "mula mula pastikan dia ada window perch untuk tengok luar",
+      "lepas tu rotate toys every few days supaya tak boring",
+      "puzzle feeder pun bagus sebab stimulate brain dia waktu makan",
+      "kalau kau balik kerja luangkan 15 minit main dengan dia pun dah cukup",
+      "kucing yang happy tak ada masa nak rosakkan barang rumah"
+    ],
+    "strategy": {
+      "contentType": "value-instructional",
+      "topic": "cat-boredom-destruction",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-014",
+    "date": "2026-05-08",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-08T07:00:00Z",
+    "text": "yang kucing pernah takut vacuum cleaner. macam mana korang train dia okay 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-vacuum-fear",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-015",
+    "date": "2026-05-08",
+    "slot": "night",
+    "scheduled_utc": "2026-05-08T12:00:00Z",
+    "text": "kucing aku kalau nampak aku makan mesti duduk depan aku pandang dengan mata besar macam tak makan seminggu 💀",
+    "pillar": "funny-observation",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "funny-observation",
+      "topic": "cat-begging-food",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-016",
+    "date": "2026-05-09",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-09T02:00:00Z",
+    "text": "kenapa selalu sangat kucing kau shedded bulu sampai satu rumah 😂 ni cara handle",
+    "pillar": "soft-shill",
+    "status": "pending",
+    "thread_parts": [
+      "kenapa selalu sangat kucing kau shedded bulu sampai satu rumah",
+      "shedding is normal tapi kalau terlalu banyak ada sebabnya",
+      "mungkin makanan dia kurang nutrient atau stress",
+      "mula mula tukar food yang ada Omega 3 dan 6 untuk bulu sihat",
+      "aku pakai Royal Canin Indoor 27 ni memang bagus untuk indoor cat yang shedding teruk",
+      "lepas tu sikat dia regularly untuk remove loose fur sebelum jatuh kat lantai",
+      "pastikan air minum cukup sebab dehydrated skin lebih mudah shed",
+      "kalau shedding ada bald patch tu bukan normal dah kena check vet",
+      "link food tu https://s.shopee.com.my/9AL14Mc4Ij"
+    ],
+    "affiliateLink": "https://s.shopee.com.my/9AL14Mc4Ij",
+    "productId": "k-aff-003",
+    "strategy": {
+      "contentType": "soft-shill",
+      "topic": "cat-shedding-management",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-017",
+    "date": "2026-05-09",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-09T07:00:00Z",
+    "text": "yang kucing dia suka sangat duduk dalam kotak. korang pernah beli mainan mahal tapi dia pilih kotak delivery 😂",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-box-obsession",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-018",
+    "date": "2026-05-09",
+    "slot": "night",
+    "scheduled_utc": "2026-05-09T12:00:00Z",
+    "text": "memang betul kucing stray lagi tough dari kucing indoor tapi bukan alasan kau abandon dia 💀",
+    "pillar": "hot-take",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "hot-take",
+      "topic": "cat-abandonment",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-019",
+    "date": "2026-05-10",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-10T02:00:00Z",
+    "text": "kau ingat kucing kau happy padahal dia sakit je aku nak ajar cara detect",
+    "pillar": "value-instructional",
+    "status": "pending",
+    "thread_parts": [
+      "kau ingat kucing kau happy padahal dia sakit je aku nak ajar cara detect",
+      "kucing memang expert hide pain ni memang instinct survival",
+      "tanda pertama dia jadi kurang active atau banyak tidur dari biasa",
+      "tanda kedua dia kurang makan atau terus stop makan",
+      "tanda ketiga dia sorok diri dalam tempat yang dia tak pernah pergi sebelum ni",
+      "tanda keempat dia kurang grooming atau langsung tak jaga diri",
+      "tanda kelima bila kau pegang dia meow sakit atau cuba lari",
+      "kalau nampak mana mana tanda ni jangan tunggu lagi terus bawa vet",
+      "early detection boleh save nyawa kucing kau"
+    ],
+    "strategy": {
+      "contentType": "value-instructional",
+      "topic": "cat-illness-signs",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-020",
+    "date": "2026-05-10",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-10T07:00:00Z",
+    "text": "kucing kepada owner. apa nama paling pelik kau bagi kucing kau dan kenapa 😂",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-weird-names",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-021",
+    "date": "2026-05-10",
+    "slot": "night",
+    "scheduled_utc": "2026-05-10T12:00:00Z",
+    "text": "kucing aku suka sangat minum air dari paip sampai aku naik rugi bil air 🐱",
+    "pillar": "funny-observation",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "funny-observation",
+      "topic": "cat-tap-water",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-022",
+    "date": "2026-05-11",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-11T02:00:00Z",
+    "text": "aku penat dah balik kerja tiap tiap hari nampak rumah bersepah sebab kucing 😂 sampai aku jumpa solution ni",
+    "pillar": "soft-shill",
+    "status": "pending",
+    "thread_parts": [
+      "aku penat dah balik kerja tiap tiap hari nampak rumah bersepah sebab kucing",
+      "sampai satu hari aku decide kena ada space khusus untuk dia",
+      "aku dapat XXL sangkar kucing ni dari Shopee memang game changer",
+      "dalam ni ada space besar dia boleh tidur main makan semua",
+      "yang best ada multi level so dia boleh panjat panjat",
+      "sejak ada ni rumah aku memang kemas balik dia pun happy ada tempat sendiri",
+      "link sini https://s.shopee.com.my/7ppdTrdxMG"
+    ],
+    "affiliateLink": "https://s.shopee.com.my/7ppdTrdxMG",
+    "productId": "k-aff-002",
+    "strategy": {
+      "contentType": "soft-shill",
+      "topic": "cat-cage-home",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-023",
+    "date": "2026-05-11",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-11T07:00:00Z",
+    "text": "yang kucing dia tak suka langsung duduk dalam sangkar. macam mana korang train dia okay 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-cage-training",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-024",
+    "date": "2026-05-11",
+    "slot": "night",
+    "scheduled_utc": "2026-05-11T12:00:00Z",
+    "text": "kalau kau beli kucing purebred tapi takde duit nak jaga genetic disease memang kau buat keputusan salah 💀",
+    "pillar": "hot-take",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "hot-take",
+      "topic": "purebred-cat-health-costs",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-025",
+    "date": "2026-05-12",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-12T02:00:00Z",
+    "text": "korang tahu tak kenapa kucing selalu kencing merata rumah ni cara stop kan",
+    "pillar": "soft-shill",
+    "status": "pending",
+    "thread_parts": [
+      "korang tahu tak kenapa kucing selalu kencing merata rumah ni cara stop kan",
+      "bukan semua kes sebab kucing nakal",
+      "kadang ada masalah medical macam UTI atau kidney issue",
+      "mula mula pastikan litter box dia bersih kucing memang cerewet pasal ni",
+      "rule of thumb litter box kena ada sebanyak bilangan kucing tambah satu",
+      "lepas tu check kalau dia stress baru pindah rumah atau ada perubahan dalam rumah",
+      "clean area yang dah kena kencing tu with enzymatic cleaner supaya dia tak repeat spot sama",
+      "aku recommend Nanovet Pet Dental Care Water Additive ni untuk overall health termasuk urinary",
+      "link https://s.shopee.com.my/60NzIPCeqd"
+    ],
+    "affiliateLink": "https://s.shopee.com.my/60NzIPCeqd",
+    "productId": "k-aff-001",
+    "strategy": {
+      "contentType": "soft-shill",
+      "topic": "cat-inappropriate-urination",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-026",
+    "date": "2026-05-12",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-12T07:00:00Z",
+    "text": "yang pernah rescue kucing stray. cerita experience korang from start sampai jadi manja 😂",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "stray-cat-rescue",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-027",
+    "date": "2026-05-12",
+    "slot": "night",
+    "scheduled_utc": "2026-05-12T12:00:00Z",
+    "text": "kucing aku dah ada 5 jenis mainan tapi yang dia paling suka main adalah penutup botol 😂",
+    "pillar": "funny-observation",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "funny-observation",
+      "topic": "cat-prefer-simple-toys",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-028",
+    "date": "2026-05-13",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-13T02:00:00Z",
+    "text": "aku bagi tahu kenapa telinga kucing bau busuk dan cara bersihkan dengan betul",
+    "pillar": "value-instructional",
+    "status": "pending",
+    "thread_parts": [
+      "aku bagi tahu kenapa telinga kucing bau busuk dan cara bersihkan dengan betul",
+      "bau busuk dari telinga kucing bukan normal okay",
+      "selalunya sign of ear infection atau ear mites",
+      "mula mula check dalam telinga kalau nampak dark brown discharge tu memang ada masalah",
+      "kalau dia selalu scratch telinga atau shake kepala confirm ada issue",
+      "step pertama guna Nanovet Pet Ear Cleaner Solution ni memang gentle",
+      "step kedua titis dalam telinga lepas tu massage base of ear gently",
+      "step ketiga lap keluar kotoran dengan cotton pad jangan masuk cotton swab dalam telinga",
+      "buat ni once a week untuk prevention"
+    ],
+    "strategy": {
+      "contentType": "value-instructional",
+      "topic": "cat-ear-cleaning",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-029",
+    "date": "2026-05-13",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-13T07:00:00Z",
+    "text": "yang kucing dia suka sangat gigit tangan owner. korang macam mana handle 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-biting-hands",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-030",
+    "date": "2026-05-13",
+    "slot": "night",
+    "scheduled_utc": "2026-05-13T12:00:00Z",
+    "text": "memang cute tengok video kucing buat trick tapi kalau kau force dia buat benda tu memang cruel 💀",
+    "pillar": "hot-take",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "hot-take",
+      "topic": "cat-trick-training-ethics",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-031",
+    "date": "2026-05-14",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-14T02:00:00Z",
+    "text": "kucing aku selalu duduk dekat pintu depan macam nak keluar tapi keluar je dia terus balik 😂 kenapa aku explain",
+    "pillar": "value-instructional",
+    "status": "pending",
+    "thread_parts": [
+      "kucing aku selalu duduk dekat pintu depan macam nak keluar tapi keluar je dia terus balik",
+      "ni bukan kucing kau bodoh ni memang nature dia",
+      "kucing ada instinct untuk patrol territory dia",
+      "dia nak check outside area tapi tak semestinya nak keluar lama",
+      "ini cara dia maintain awareness pasal surroundings",
+      "kalau kau selalu buka pintu untuk dia pastikan area tu safe",
+      "pastikan ada fence atau barrier supaya dia tak lari jauh",
+      "dan pastikan dia microchipped kalau takut hilang",
+      "kalau apartment tinggi jangan bagi keluar langsung bahaya jatuh"
+    ],
+    "strategy": {
+      "contentType": "value-instructional",
+      "topic": "cat-door-behavior",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-032",
+    "date": "2026-05-14",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-14T07:00:00Z",
+    "text": "yang kucing dia suka tidur atas baju kotor je bukan baju bersih. pernah kena 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-dirty-clothes",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-033",
+    "date": "2026-05-14",
+    "slot": "night",
+    "scheduled_utc": "2026-05-14T12:00:00Z",
+    "text": "kalau kau selalu ignore kucing kau lepas tu kau marah bila dia jadi distant memang kau yang salah 💀",
+    "pillar": "hot-take",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "hot-take",
+      "topic": "cat-neglect-behavior",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-034",
+    "date": "2026-05-15",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-15T02:00:00Z",
+    "text": "penat sangat balik kerja tapi kucing still nak makan fresh food tiap kali 😂 luckily aku jumpa benda ni",
+    "pillar": "soft-shill",
+    "status": "pending",
+    "thread_parts": [
+      "penat sangat balik kerja tapi kucing still nak makan fresh food tiap kali",
+      "kucing aku ni memang drama queen pasal makanan",
+      "kalau bagi awal dia tak nak makan tunggu balik kerja baru nak",
+      "sampai satu hari aku rasa macam kena cari solution",
+      "aku try Nanovet Smart Pet Feeder ni 4L capacity boleh schedule meal",
+      "sekarang aku set 4 kali makan sehari auto dispense",
+      "dia pun happy dapat fresh food setiap kali aku pun tak stress",
+      "yang best boleh control dari phone lagi",
+      "link https://s.shopee.com.my/5AosJ5BogD"
+    ],
+    "affiliateLink": "https://s.shopee.com.my/5AosJ5BogD",
+    "productId": "k-aff-004",
+    "strategy": {
+      "contentType": "soft-shill",
+      "topic": "auto-pet-feeder",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-035",
+    "date": "2026-05-15",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-15T07:00:00Z",
+    "text": "yang ada kucing jenis picky makan. apa brand makanan dia suka paling 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "picky-eater-cats",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-036",
+    "date": "2026-05-15",
+    "slot": "night",
+    "scheduled_utc": "2026-05-15T12:00:00Z",
+    "text": "kalau kau bela kucing dalam rumah tapi takde scratching post memang kau yang salah bila sofa koyak 💀",
+    "pillar": "hot-take",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "hot-take",
+      "topic": "scratching-post-responsibility",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-037",
+    "date": "2026-05-16",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-16T02:00:00Z",
+    "text": "kenapa kucing selalu pilih tidur atas baju kau yang baru basuh bukan tempat lain 😂 ni penjelasannya",
+    "pillar": "value-instructional",
+    "status": "pending",
+    "thread_parts": [
+      "kenapa kucing selalu pilih tidur atas baju kau yang baru basuh bukan tempat lain",
+      "sebab baju kau ada bau kau yang strongest",
+      "kucing associate bau owner dengan comfort dan security",
+      "tu dia feel safe tidur atas benda yang ada bau orang yang dia sayang",
+      "dan baju yang baru basuh tu warm dan soft perfect for napping",
+      "kalau kau notice dia tidur atas baju kau tu sign dia trust kau",
+      "kucing hanya tidur dalam area yang dia rasa 100% safe",
+      "so jangan marah dia tidur atas baju tu actually ni compliment dari dia",
+      "kalau nak elak simpan baju dalam drawer terus lepas lipat"
+    ],
+    "strategy": {
+      "contentType": "value-instructional",
+      "topic": "cat-sleep-owner-clothes",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-038",
+    "date": "2026-05-16",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-16T07:00:00Z",
+    "text": "yang kucing dia selalu duduk dalam sinki. ada ke cats lain macam ni 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-sink-sitting",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-039",
+    "date": "2026-05-16",
+    "slot": "night",
+    "scheduled_utc": "2026-05-16T12:00:00Z",
+    "text": "kucing aku suka sangat curi kain aku lepas tu tidur atas kain tu macam dia punya 🐱",
+    "pillar": "funny-observation",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "funny-observation",
+      "topic": "cat-stealing-clothes",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-040",
+    "date": "2026-05-17",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-17T02:00:00Z",
+    "text": "aku explain kenapa kucing selalu purr dan bila purr tu bukan maksud dia happy",
+    "pillar": "value-instructional",
+    "status": "pending",
+    "thread_parts": [
+      "aku explain kenapa kucing selalu purr dan bila purr tu bukan maksud dia happy",
+      "ramai ingat purr means happy tapi sebenarnya lebih complex dari tu",
+      "kucing purr bila happy memang tapi dia juga purr bila sakit",
+      "kucing purr bila stress atau nervous sebagai self soothing mechanism",
+      "kucing mother purr untuk communicate dengan kittens dia",
+      "cara bezakan tengok body language lain sekali",
+      "kalau purr dengan mata separa tutup dan badan relax tu happy purr",
+      "kalau purr dengan telinga flatten dan badan tense tu stress purr",
+      "kalau purr lepas accident atau sakit tu pain purr"
+    ],
+    "strategy": {
+      "contentType": "value-instructional",
+      "topic": "cat-purring-meanings",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-041",
+    "date": "2026-05-17",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-17T07:00:00Z",
+    "text": "yang kucing dia jenis suka tidur peluk kaki owner time tidur. korang biarkan atau halau 😂",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-sleeping-on-owner",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-042",
+    "date": "2026-05-17",
+    "slot": "night",
+    "scheduled_utc": "2026-05-17T12:00:00Z",
+    "text": "bela kucing untuk jadi content creator je memang bukan pet lover sebenar 💀",
+    "pillar": "hot-take",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "hot-take",
+      "topic": "cats-for-content",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-043",
+    "date": "2026-05-18",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-18T02:00:00Z",
+    "text": "aku balik kampung seminggu kucing aku kat rumah sorang sorang 😂 bila balik rumah terus jumpa benda ni",
+    "pillar": "soft-shill",
+    "status": "pending",
+    "thread_parts": [
+      "aku balik kampung seminggu kucing aku kat rumah sorang sorang",
+      "aku mintak tolong jiran bagi makan tapi jiran busy dia lupa",
+      "nasib baik aku dah siap prepare Nanovet Smart Pet Feeder 4L",
+      "dah set schedule sebelum pergi dia auto dispense 4 kali sehari",
+      "balik rumah kucing aku sihat happy air pun still ada dalam fountain",
+      "kalau korang selalu travel benda ni memang wajib ada",
+      "link https://s.shopee.com.my/5AosJ5BogD"
+    ],
+    "affiliateLink": "https://s.shopee.com.my/5AosJ5BogD",
+    "productId": "k-aff-004",
+    "strategy": {
+      "contentType": "soft-shill",
+      "topic": "auto-feeder-travel",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-044",
+    "date": "2026-05-18",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-18T07:00:00Z",
+    "text": "yang pernah tinggal kucing kat pet hotel. okay ke or regret 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-pet-hotel",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-045",
+    "date": "2026-05-18",
+    "slot": "night",
+    "scheduled_utc": "2026-05-18T12:00:00Z",
+    "text": "kalau kucing kau selalu sakit mungkin bukan nasib tapi sebab kau tak jaga diet dia dengan betul 💀",
+    "pillar": "hot-take",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "hot-take",
+      "topic": "cat-diet-responsibility",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-046",
+    "date": "2026-05-19",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-19T02:00:00Z",
+    "text": "korang perasan tak kucing selalu knead atas perut kau macam buat roti 😂 ni sebabnya",
+    "pillar": "value-instructional",
+    "status": "pending",
+    "thread_parts": [
+      "korang perasan tak kucing selalu knead atas perut kau macam buat roti",
+      "benda ni panggil kneading atau making biscuits",
+      "behavior ni datang dari kittenhood waktu dia knead perut mother cat untuk stimulate milk flow",
+      "bila dia besar dia still buat sebab dia associate feeling tu dengan comfort",
+      "kalau dia knead atas kau maknanya dia rasa super comfortable dengan kau",
+      "ada juga theory kata ni instinct dari wild ancestor untuk flatten grass before sleeping",
+      "kalau claw dia tajam time knead tu letak blanket atas perut kau",
+      "jangan marah atau push dia sebab tu sign dia sayang kau",
+      "kucing yang knead dengan kau means dia rasa safe dan happy"
+    ],
+    "strategy": {
+      "contentType": "value-instructional",
+      "topic": "cat-kneading-behavior",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-047",
+    "date": "2026-05-19",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-19T07:00:00Z",
+    "text": "yang kucing dia suka sangat follow owner pergi mana mana. korang rasa kenapa 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-following-owner",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-048",
+    "date": "2026-05-19",
+    "slot": "night",
+    "scheduled_utc": "2026-05-19T12:00:00Z",
+    "text": "kucing aku kalau nampak aku buka peti ais dia terus datang macam ada deal special untuk dia 😂",
+    "pillar": "funny-observation",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "funny-observation",
+      "topic": "cat-fridge-reaction",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-049",
+    "date": "2026-05-20",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-20T02:00:00Z",
+    "text": "kucing korang selalu slow blink kat korang tak tahu maksudnya aku nak bagitahu",
+    "pillar": "value-instructional",
+    "status": "pending",
+    "thread_parts": [
+      "kucing korang selalu slow blink kat korang tak tahu maksudnya aku nak bagitahu",
+      "slow blink ni kucing punya cara kata I love you",
+      "dalam dunia kucing direct eye contact tu sign of aggression",
+      "tapi bila dia slow blink maknanya dia show trust dia tak anggap kau threat",
+      "cara kau respond pun boleh slow blink balik ke dia",
+      "kalau dia slow blink dan kau slow blink balik dia akan repeat lagi",
+      "ni building trust antara korang berdua",
+      "kucing yang slow blink kat kau means dia rasa super safe dengan kau",
+      "so lepas ni bila dia buat tu jangan blur blink balik okay"
+    ],
+    "strategy": {
+      "contentType": "value-instructional",
+      "topic": "cat-slow-blink-meaning",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-050",
+    "date": "2026-05-20",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-20T07:00:00Z",
+    "text": "yang kucing dia jenis suka duduk atas bahu owner macam parrot. pernah jumpa 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-shoulder-sitting",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-051",
+    "date": "2026-05-20",
+    "slot": "night",
+    "scheduled_utc": "2026-05-20T12:00:00Z",
+    "text": "kucing aku suka sangat bawak mainan dia atas katil lepas tu meow macam nak show off 😂",
+    "pillar": "funny-observation",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "funny-observation",
+      "topic": "cat-bringing-toys",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-052",
+    "date": "2026-05-21",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-21T02:00:00Z",
+    "text": "dulu aku give up nak bagi kucing aku vitamin sampai aku jumpa benda ni 😂",
+    "pillar": "soft-shill",
+    "status": "pending",
+    "thread_parts": [
+      "dulu aku give up nak bagi kucing aku vitamin sebab dia memang tak nak makan langsung",
+      "aku try mix dengan wet food still tak makan",
+      "try letak atas lidah dia terus spit out",
+      "then aku jumpa MEOWLAB Vitamin Kucing ni datang dalam sachet",
+      "benda ni boleh sprinkle atas makanan dia terus makan tanpa sedar",
+      "selepas 2 minggu nampak dia lebih active dan bulu lebih shiny",
+      "yang penting dia tak reject macam vitamin before ni",
+      "1 pack ada 12 sachet cukup for 2 weeks daily supplement",
+      "link https://s.shopee.com.my/2g7XKauVuu"
+    ],
+    "affiliateLink": "https://s.shopee.com.my/2g7XKauVuu",
+    "productId": "k-aff-008",
+    "strategy": {
+      "contentType": "soft-shill",
+      "topic": "cat-vitamin-sachet",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-053",
+    "date": "2026-05-21",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-21T07:00:00Z",
+    "text": "yang kucing dia suka tidur dalam position pelik gila. pernah catch moment apa paling weird 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "weird-sleeping-positions",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-054",
+    "date": "2026-05-21",
+    "slot": "night",
+    "scheduled_utc": "2026-05-21T12:00:00Z",
+    "text": "kalau kau sanggup spend beratus untuk toy tapi food kau beli yang paling murah memang kau tak paham cat care 💀",
+    "pillar": "hot-take",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "hot-take",
+      "topic": "toy-vs-food-priority",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-055",
+    "date": "2026-05-22",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-22T02:00:00Z",
+    "text": "kenapa kucing selalu head bump kau benda ni lagi sweet dari yang kau ingat",
+    "pillar": "value-instructional",
+    "status": "pending",
+    "thread_parts": [
+      "kenapa kucing selalu head bump kau benda ni lagi sweet dari yang kau ingat",
+      "head bump atau head bunting ni bukan cats randomly bonk kau",
+      "kucing ada scent gland kat kepala dia",
+      "bila dia head bump kau dia actually mark kau with his scent",
+      "in cat language ni means you belong to him",
+      "kucing akan head bump orang dan benda yang dia consider part of his territory",
+      "kalau dia head bump orang lain dalam rumah means dia claim semua orang tu",
+      "ni cara kucing show affection yang paling pure",
+      "so next time dia head bump kau jangan tepis dia terima je lah"
+    ],
+    "strategy": {
+      "contentType": "value-instructional",
+      "topic": "cat-head-bunting",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-056",
+    "date": "2026-05-22",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-22T07:00:00Z",
+    "text": "yang ada kucing jenis clingy gila. macam mana korang handle bila kau kena pergi kerja 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "clingy-cat-separation",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-057",
+    "date": "2026-05-22",
+    "slot": "night",
+    "scheduled_utc": "2026-05-22T12:00:00Z",
+    "text": "kucing aku suka sangat gigit charger cable sampai aku kena beli baru every month 😂",
+    "pillar": "funny-observation",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "funny-observation",
+      "topic": "cat-chewing-cables",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-058",
+    "date": "2026-05-23",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-23T02:00:00Z",
+    "text": "korang tak perasan ke kucing selalu stretch panjang gila lepas bangun tidur ni kenapa",
+    "pillar": "value-instructional",
+    "status": "pending",
+    "thread_parts": [
+      "korang tak perasan ke kucing selalu stretch panjang gila lepas bangun tidur ni kenapa",
+      "kucing tidur average 12 sampai 16 jam sehari",
+      "lepas tidur lama muscle dia stiff macam manusia jugak",
+      "stretching ni cara dia increase blood flow dan warm up muscle",
+      "dia juga stretch untuk maintain flexibility dan sharpen claw sekaligus",
+      "kalau kau notice dia stretch after every nap tu memang normal dan healthy sign",
+      "kalau dia kurang stretch atau macam sakit time stretch tu ada problem",
+      "stretching yang proper means joint dan muscle dia dalam good condition",
+      "so enjoy lah tengok kucing kau stretch tu memang comel"
+    ],
+    "strategy": {
+      "contentType": "value-instructional",
+      "topic": "cat-stretching-behavior",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-059",
+    "date": "2026-05-23",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-23T07:00:00Z",
+    "text": "yang kucing dia jenis suka duduk dekat tv time owner tengok movie. pernah kena 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-tv-watching",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-060",
+    "date": "2026-05-23",
+    "slot": "night",
+    "scheduled_utc": "2026-05-23T12:00:00Z",
+    "text": "kucing aku kalau aku tengah meeting online dia duduk depan camera siap meow lagi macam nak join 🐱",
+    "pillar": "funny-observation",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "funny-observation",
+      "topic": "cat-video-call-interruption",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-061",
+    "date": "2026-05-24",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-24T02:00:00Z",
+    "text": "tak semua kucing suka wet food tapi cara ni buat kucing aku makan tanpa complaint 😂",
+    "pillar": "soft-shill",
+    "status": "pending",
+    "thread_parts": [
+      "tak semua kucing suka wet food tapi cara ni buat kucing aku makan tanpa complaint",
+      "kucing aku memang jenis picky gila pasal makanan",
+      "aku try banyak brand tapi dia makan sikit je lepas tu ignore",
+      "sampai aku discover Belif makanan untuk kucing dewasa perisa ayam dan ayam belanda ni",
+      "18kg bag memang worth it sebab dia makan habis every time",
+      "texture dia sesuai dan aroma dia memang kucing suka",
+      "sejak tukar ni perut dia okay kulit pun less flaky",
+      "kalau korang ada kucing picky boleh try ni",
+      "link https://s.shopee.com.my/20rqXQiEkJ"
+    ],
+    "affiliateLink": "https://s.shopee.com.my/20rqXQiEkJ",
+    "productId": "k-aff-009",
+    "strategy": {
+      "contentType": "soft-shill",
+      "topic": "bulk-cat-food-picky",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-062",
+    "date": "2026-05-24",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-24T07:00:00Z",
+    "text": "yang kucing dia jenis suka kacau owner tengah masak. apa cara korang handle 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-kitchen-interference",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-063",
+    "date": "2026-05-24",
+    "slot": "night",
+    "scheduled_utc": "2026-05-24T12:00:00Z",
+    "text": "kalau kau bela kucing indoor 100% tapi tak bagi dia any enrichment memang kau buat dia suffer 💀",
+    "pillar": "hot-take",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "hot-take",
+      "topic": "indoor-cat-enrichment",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-064",
+    "date": "2026-05-25",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-25T02:00:00Z",
+    "text": "yang tak tahu pasal ni memang bahaya kenapa kucing selalu hide bila ada orang datang rumah",
+    "pillar": "soft-shill",
+    "status": "pending",
+    "thread_parts": [
+      "yang tak tahu pasal ni memang bahaya kenapa kucing selalu hide bila ada orang datang rumah",
+      "kucing memang territorial animals dia rasa strangers ni threat",
+      "bila stranger datang rumah territory dia rasa compromised",
+      "hiding is coping mechanism dia untuk feel safe",
+      "cara bantu jangan paksa dia keluar dari hiding spot",
+      "biarkan dia come out sendiri bila dia rasa comfortable",
+      "bagitahu guest jangan direct approach atau stare kucing tu",
+      "aku recommend Foldable Cat Tent ni untuk bagi dia safe space sendiri",
+      "link https://s.shopee.com.my/5q4Z6MSgrG"
+    ],
+    "affiliateLink": "https://s.shopee.com.my/5q4Z6MSgrG",
+    "productId": "k-aff-006",
+    "strategy": {
+      "contentType": "soft-shill",
+      "topic": "cat-hiding-portable-tent",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-065",
+    "date": "2026-05-25",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-25T07:00:00Z",
+    "text": "yang kucing dia selalu tidur atas baju kotor je bukan baju bersih. pernah kena 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-dirty-clothes-preference",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-066",
+    "date": "2026-05-25",
+    "slot": "night",
+    "scheduled_utc": "2026-05-25T12:00:00Z",
+    "text": "kucing aku suka sangat duduk dalam beg shopping plastik lepas tu dia macam proud gila 😂",
+    "pillar": "funny-observation",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "funny-observation",
+      "topic": "cat-plastic-bag",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-067",
+    "date": "2026-05-26",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-26T02:00:00Z",
+    "text": "korang selalu nampak kucing tail position tapi tak tahu maksud apa aku nak ajar",
+    "pillar": "value-instructional",
+    "status": "pending",
+    "thread_parts": [
+      "korang selalu nampak kucing tail position tapi tak tahu maksud apa aku nak ajar",
+      "tail ni kucing punya mood indicator paling clear",
+      "tail lurus ke atas dengan hujung sikit curve tu happy dan friendly",
+      "tail puffed up macam bottle brush tu scared atau angry",
+      "tail tucked between legs tu fear atau submission",
+      "tail flicking left right tu irritated atau annoyed",
+      "tail twitching slow tu focused macam tengah observe something",
+      "tail wrapped around body tu anxious atau cold",
+      "kalau faham tail language ni senang nak tahu apa kucing kau feel"
+    ],
+    "strategy": {
+      "contentType": "value-instructional",
+      "topic": "cat-tail-language",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-068",
+    "date": "2026-05-26",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-26T07:00:00Z",
+    "text": "yang kucing dia jenis bising sangat time orang tidur. korang macam mana handle 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "noisy-cat-at-night",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-069",
+    "date": "2026-05-26",
+    "slot": "night",
+    "scheduled_utc": "2026-05-26T12:00:00Z",
+    "text": "kalau kau always bagi kucing kau human food memang kau yang train dia jadi beggar 💀",
+    "pillar": "hot-take",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "hot-take",
+      "topic": "human-food-begging",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-070",
+    "date": "2026-05-27",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-27T02:00:00Z",
+    "text": "korang tak pernah pelik ke kenapa kucing selalu pilih tidur tempat paling panas 😂 ni story dia",
+    "pillar": "value-instructional",
+    "status": "pending",
+    "thread_parts": [
+      "korang tak pernah pelik ke kenapa kucing selalu pilih tidur tempat paling panas",
+      "kucing punya body temperature higher dari manusia sekitar 38 sampai 39 degree celsius",
+      "tu sebab dia selalu cari warm spot untuk maintain temperature dia",
+      "dalam wild ancestor dia memang habitat warm climate",
+      "tu instinct dia masih ada cari tempat yang warm untuk conserve energy",
+      "tu dia tidur atas router laptop dekat window kena matahari",
+      "kalau winter dia cari blanket heater atau tidur rapat dengan kau",
+      "ni behavior yang completely normal dan healthy",
+      "kalau dia tidur tempat sejuk tu baru patut risau maybe ada medical issue"
+    ],
+    "strategy": {
+      "contentType": "value-instructional",
+      "topic": "cat-seeking-warmth",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-071",
+    "date": "2026-05-27",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-27T07:00:00Z",
+    "text": "yang kucing dia suka sangat kacau waktu orang tengah kerja dari rumah. pernah kena 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-wfh-interruption",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-072",
+    "date": "2026-05-27",
+    "slot": "night",
+    "scheduled_utc": "2026-05-27T12:00:00Z",
+    "text": "kucing aku suka sangat tidur dalam posisi macam manusia terbalik 😂",
+    "pillar": "funny-observation",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "funny-observation",
+      "topic": "cat-weird-sleep-positions",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-073",
+    "date": "2026-05-28",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-28T02:00:00Z",
+    "text": "aku pernah rasa guilty sangat sebab kucing aku bulunya kering dan kusam 😂 then aku try LGD food ni",
+    "pillar": "soft-shill",
+    "status": "pending",
+    "thread_parts": [
+      "aku pernah rasa guilty sangat sebab kucing aku bulunya kering dan kusam",
+      "dah try banyak supplements tapi still tak okay",
+      "then aku realize maybe food dia yang kurang nutrient",
+      "aku switch ke LGD PETS Cat Food Chicken Tuna With Milk 10kg",
+      "formula dia memang focus on nutrition yang lengkap",
+      "dalam sebulan bulu dia dah nampak lebih shiny dan lembut",
+      "10kg tu memang jimat untuk makan lama",
+      "kucing aku pun makan lebih laju dari before ni",
+      "link sini https://s.shopee.com.my/901asJuv3u"
+    ],
+    "affiliateLink": "https://s.shopee.com.my/901asJuv3u",
+    "productId": "k-aff-010",
+    "strategy": {
+      "contentType": "soft-shill",
+      "topic": "cat-food-coat-health",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-074",
+    "date": "2026-05-28",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-28T07:00:00Z",
+    "text": "yang kucing dia suka sangat makan plastik atau getah. pernah jumpa macam ni 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-eating-plastic",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-075",
+    "date": "2026-05-28",
+    "slot": "night",
+    "scheduled_utc": "2026-05-28T12:00:00Z",
+    "text": "kalau kau marah kucing sebab dia natural behavior memang kau tak layak bela haiwan 💀",
+    "pillar": "hot-take",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "hot-take",
+      "topic": "punishing-natural-behavior",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-076",
+    "date": "2026-05-29",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-29T02:00:00Z",
+    "text": "yang tak tahu ni memang rugi kenapa kucing selalu knead dan cara handle without getting scratched",
+    "pillar": "soft-shill",
+    "status": "pending",
+    "thread_parts": [
+      "yang tak tahu ni memang rugi kenapa kucing selalu knead dan cara handle without getting scratched",
+      "kneading ni instinct dari kittenhood time dia suckle",
+      "kitten knead perut mother untuk stimulate milk production",
+      "waktu dewasa dia still knead sebab dia feel comfort",
+      "kalau claw dia tajam memang sakit lah kena",
+      "cara handle letak thick blanket atau towel atas lap kau",
+      "trim claw dia regularly untuk reduce sharpness",
+      "aku pakai MEOWLAB Vitamin Kucing untuk keep claw dia strong tapi not brittle",
+      "link vitamin https://s.shopee.com.my/2g7XKauVuu"
+    ],
+    "affiliateLink": "https://s.shopee.com.my/2g7XKauVuu",
+    "productId": "k-aff-008",
+    "strategy": {
+      "contentType": "soft-shill",
+      "topic": "cat-kneading-claw-health",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-077",
+    "date": "2026-05-29",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-29T07:00:00Z",
+    "text": "yang kucing dia jenis suka bawak mangsa dead masuk rumah. macam mana korang react 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-bringing-prey",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-078",
+    "date": "2026-05-29",
+    "slot": "night",
+    "scheduled_utc": "2026-05-29T12:00:00Z",
+    "text": "kucing aku suka sangat tidur tepi kepala aku sampai aku tak boleh gerak langsung 😂",
+    "pillar": "funny-observation",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "funny-observation",
+      "topic": "cat-sleeping-on-head",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-079",
+    "date": "2026-05-30",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-30T02:00:00Z",
+    "text": "aku stress dulu sebab kucing aku selalu muntah hairball 😂 sampai aku jumpa cara ni",
+    "pillar": "soft-shill",
+    "status": "pending",
+    "thread_parts": [
+      "aku stress dulu sebab kucing aku selalu muntah hairball sampai karpet penuh",
+      "dah try banyak cara tapi still jadi",
+      "then aku realize aku kena tackle dari dua direction",
+      "first sikat dia more often untuk remove loose fur sebelum dia telan",
+      "second bagi dia food yang ada hairball control formula",
+      "Royal Canin Indoor 27 ni memang ada ingredient yang help reduce hairball",
+      "selepas sebulan frequency hairball turun dari every day to once a week",
+      "siap bulu dia lagi shiny lagi",
+      "link https://s.shopee.com.my/9AL14Mc4Ij"
+    ],
+    "affiliateLink": "https://s.shopee.com.my/9AL14Mc4Ij",
+    "productId": "k-aff-003",
+    "strategy": {
+      "contentType": "soft-shill",
+      "topic": "hairball-control-food",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-080",
+    "date": "2026-05-30",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-30T07:00:00Z",
+    "text": "yang kucing dia suka sangat duduk atas bahu owner macam parrot. pernah kena 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-shoulder-riding",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-081",
+    "date": "2026-05-30",
+    "slot": "night",
+    "scheduled_utc": "2026-05-30T12:00:00Z",
+    "text": "kalau kau bela kucing pastu kau biarkan dia makan sekali sehari memang kau tak research langsung 💀",
+    "pillar": "hot-take",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "hot-take",
+      "topic": "cat-feeding-frequency",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-082",
+    "date": "2026-05-31",
+    "slot": "morning",
+    "scheduled_utc": "2026-05-31T02:00:00Z",
+    "text": "korang perasan tak kucing selalu grooming satu sama lain ni maksud dia lagi deep dari yang kau sangka",
+    "pillar": "value-instructional",
+    "status": "pending",
+    "thread_parts": [
+      "korang perasan tak kucing selalu grooming satu sama lain ni maksud dia lagi deep dari yang kau sangka",
+      "allogrooming ni cats grooming each other",
+      "ni bukan pasal cleanliness tapi pasal social bonding",
+      "kucing yang groom each other means mereka ada close bond",
+      "usually kucing dominant yang groom kucing subordinate",
+      "kalau kau ada 2 cats dan satu selalu groom yang lain tu sign dia care",
+      "kalau kucing kau cuba groom kau jugak tu memang level tertinggi",
+      "ni cara dia include kau dalam social group dia",
+      "kalau suddenly dia stop groom other cat maybe ada tension antara mereka"
+    ],
+    "strategy": {
+      "contentType": "value-instructional",
+      "topic": "cat-allogrooming-bonding",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-083",
+    "date": "2026-05-31",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-05-31T07:00:00Z",
+    "text": "yang kucing dia suka sangat kacau waktu orang buat skincare routine. pernah kena 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-skincare-interruption",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-084",
+    "date": "2026-05-31",
+    "slot": "night",
+    "scheduled_utc": "2026-05-31T12:00:00Z",
+    "text": "kucing aku suka sangat tidur atas remote control sampai aku tak boleh tukar channel 😂",
+    "pillar": "funny-observation",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "funny-observation",
+      "topic": "cat-on-remote",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-085",
+    "date": "2026-06-01",
+    "slot": "morning",
+    "scheduled_utc": "2026-06-01T02:00:00Z",
+    "text": "korang selalu sangat abaikan dental hygiene kucing sampai dia sakit baru nak cari 😂 ni cara prevent",
+    "pillar": "soft-shill",
+    "status": "pending",
+    "thread_parts": [
+      "korang selalu sangat abaikan dental hygiene kucing sampai dia sakit baru nak cari",
+      "dental disease ni paling common tapi paling orang ignore",
+      "70 percent kucing atas 3 tahun ada dental problem",
+      "mula mula check gusi dia kalau merah atau bengkak tu sign gingivitis",
+      "kalau air liur dia banyak atau dia susah makan confirm gigi ada masalah",
+      "cara paling senang prevent bagi Nanovet Pet Dental Care Water Additive",
+      "titap je dalam air minum dia every day dia minum sendiri",
+      "formula dia fight bacteria yang cause plaque dan tartar",
+      "link https://s.shopee.com.my/60NzIPCeqd"
+    ],
+    "affiliateLink": "https://s.shopee.com.my/60NzIPCeqd",
+    "productId": "k-aff-001",
+    "strategy": {
+      "contentType": "soft-shill",
+      "topic": "cat-dental-prevention",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-086",
+    "date": "2026-06-01",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-06-01T07:00:00Z",
+    "text": "yang kucing dia jenis suka tidur dalam beg atau suitcase. pernah kena 🐱",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-suitcase-sleeping",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-087",
+    "date": "2026-06-01",
+    "slot": "night",
+    "scheduled_utc": "2026-06-01T12:00:00Z",
+    "text": "kalau kau rasa kucing kau overweight tapi still bagi dia free feed memang kau sendiri yang buat dia macam tu 💀",
+    "pillar": "hot-take",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "hot-take",
+      "topic": "cat-free-feeding-obesity",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-088",
+    "date": "2026-06-02",
+    "slot": "morning",
+    "scheduled_utc": "2026-06-02T02:00:00Z",
+    "text": "kucing korang selalu buat zoomies pukul berapa paling teruk waktu malam 😂 ni kenapa",
+    "pillar": "soft-shill",
+    "status": "pending",
+    "thread_parts": [
+      "kucing korang selalu buat zoomies pukul berapa paling teruk waktu malam ni kenapa",
+      "zoomies ni cats lari keliling rumah macam gila",
+      "sebab utama kucing adalah crepuscular animals",
+      "maksudnya paling active time dawn dan dusk",
+      "tapi indoor cats yang tidur sepanjang hari accumulate energy",
+      "lepas tu semua energy tu release waktu malam",
+      "cara reduce pastikan dia main active game sebelum tidur",
+      "aku bagi Belif makanan untuk kucing dewasa 18kg ni untuk stable energy level dia",
+      "link food https://s.shopee.com.my/20rqXQiEkJ"
+    ],
+    "affiliateLink": "https://s.shopee.com.my/20rqXQiEkJ",
+    "productId": "k-aff-009",
+    "strategy": {
+      "contentType": "soft-shill",
+      "topic": "cat-zoomies-energy",
+      "format": "chain"
+    }
+  },
+  {
+    "id": "kq-m2-089",
+    "date": "2026-06-02",
+    "slot": "afternoon",
+    "scheduled_utc": "2026-06-02T07:00:00Z",
+    "text": "yang kucing dia selalu buat muka innocent lepas dia buat benda jahat. pernah capture moment tu 😂",
+    "pillar": "engagement-question",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "engagement-question",
+      "topic": "cat-innocent-face",
+      "format": "single"
+    }
+  },
+  {
+    "id": "kq-m2-090",
+    "date": "2026-06-02",
+    "slot": "night",
+    "scheduled_utc": "2026-06-02T12:00:00Z",
+    "text": "kucing aku suka sangat duduk dalam box delivery sampai box tu dah lekek pun dia tak peduli 😂",
+    "pillar": "funny-observation",
+    "status": "pending",
+    "thread_parts": [],
+    "strategy": {
+      "contentType": "funny-observation",
+      "topic": "cat-box-obsession",
+      "format": "single"
+    }
+  }
+]
