@@ -4,10 +4,10 @@ const path = require('path');
 const https = require('https');
 const { execFile } = require('child_process');
 
-const QUEUE_FILE = '/root/.openclaw/workspace/empire/data/queue/kuciaq-warmup.json';
-const ENV_FILE = '/root/.openclaw/workspace/empire/.env.kuciaq';
-const LOCK_FILE = '/root/.openclaw/workspace/empire/data/autopilot-kuciaq.lock';
-const ALERT_FILE = '/root/.openclaw/workspace/empire/data/autopilot-alerts.jsonl';
+const QUEUE_FILE = '/Users/ab1234/.openclaw/workspace/kuciaq/data/queue/kuciaq-warmup.json';
+const ENV_FILE = '/Users/ab1234/.openclaw/workspace/kuciaq/.env';
+const LOCK_FILE = '/Users/ab1234/.openclaw/workspace/kuciaq/data/autopilot-kuciaq.lock';
+const ALERT_FILE = '/Users/ab1234/.openclaw/workspace/kuciaq/data/autopilot-alerts.jsonl';
 const LOG_PREFIX = '[autopilot]';
 const MIN_POST_GAP_MIN = 90;
 const MAX_OVERDUE_MIN = 360; // 6 hours
@@ -513,7 +513,7 @@ async function runOnce() {
       console.log(`${LOG_PREFIX} ✅ posted ${item.id}: ${postedIds.join(',')}`);
 
       // Every 20 posted contents: refresh dashboard + auto topup library
-      execFile('node', ['/root/.openclaw/workspace/empire/scripts/performance-topup.js', 'qiesyarue'], () => {});
+      execFile('node', ['/Users/ab1234/.openclaw/workspace/kuciaq/scripts/performance-topup.js', 'qiesyarue'], () => {});
       break;
     } catch (e) {
       console.error(`${LOG_PREFIX} ❌ failed ${item.id}: ${e.message}`);

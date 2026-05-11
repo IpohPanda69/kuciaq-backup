@@ -2,7 +2,7 @@
 const fs = require('fs');
 const https = require('https');
 
-const ENV_FILE = '/root/.openclaw/workspace/empire/.env.kuciaq';
+const ENV_FILE = '/Users/ab1234/.openclaw/workspace/kuciaq/.env.kuciaq';
 
 function loadEnv() {
   const env = {};

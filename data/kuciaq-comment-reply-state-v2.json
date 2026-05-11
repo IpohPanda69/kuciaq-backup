@@ -1,0 +1,936 @@
+{
+  "repliedCommentIds": {
+    "18100026005327275": {
+      "skippedAt": "2026-05-10T12:05:34.603Z",
+      "reason": "historical"
+    },
+    "18128033686606262": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "18350044852240273": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "17958957795109348": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "17939127972209974": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "18088987754201484": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "18106063234931998": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "17888194206500469": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "18117313270666965": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "18014557922850884": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "18150587167426095": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "18052052090733668": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "18582450877004680": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "17935552881248100": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "18097719944165884": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "18129958144571907": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "17963522031082976": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "18071689247306032": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "18180920026385783": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "17861383161580810": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "18109760587698972": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "18119491819679663": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "18349481071208408": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "18407111164198833": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "18042576167785039": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "18110755768860073": {
+      "skippedAt": "2026-05-10T12:05:36.234Z",
+      "reason": "historical"
+    },
+    "18180165307384689": {
+      "skippedAt": "2026-05-10T12:05:37.126Z",
+      "reason": "historical"
+    },
+    "18155615749461087": {
+      "skippedAt": "2026-05-10T12:05:38.125Z",
+      "reason": "historical"
+    },
+    "18326122027269844": {
+      "skippedAt": "2026-05-10T12:05:38.125Z",
+      "reason": "historical"
+    },
+    "18035910773606273": {
+      "skippedAt": "2026-05-10T12:05:38.125Z",
+      "reason": "historical"
+    },
+    "18089932937461516": {
+      "skippedAt": "2026-05-10T12:05:38.125Z",
+      "reason": "historical"
+    },
+    "18099418253079745": {
+      "skippedAt": "2026-05-10T12:05:38.125Z",
+      "reason": "historical"
+    },
+    "17937894801233430": {
+      "skippedAt": "2026-05-10T12:05:38.125Z",
+      "reason": "historical"
+    },
+    "17990728886794415": {
+      "skippedAt": "2026-05-10T12:05:38.125Z",
+      "reason": "historical"
+    },
+    "18112750771798682": {
+      "skippedAt": "2026-05-10T12:05:38.125Z",
+      "reason": "historical"
+    },
+    "18583883005044170": {
+      "skippedAt": "2026-05-10T12:05:38.608Z",
+      "reason": "historical"
+    },
+    "18363534268229498": {
+      "skippedAt": "2026-05-10T12:05:40.016Z",
+      "reason": "historical"
+    },
+    "18458099206104118": {
+      "skippedAt": "2026-05-10T12:05:40.016Z",
+      "reason": "historical"
+    },
+    "18095068223139945": {
+      "skippedAt": "2026-05-10T12:05:40.016Z",
+      "reason": "historical"
+    },
+    "18006660125864194": {
+      "repliedAt": "2026-05-10T12:12:41.774Z",
+      "replyPostId": "18050336261729332",
+      "text": "HAHA betul gila weh. Jiran aku cakap kucing bising, aku tanya eh kucing aku mend"
+    },
+    "18593088196056510": {
+      "repliedAt": "2026-05-10T12:14:50.947Z",
+      "replyPostId": "18108141676912487",
+      "text": "eh 17 ekor tu banyak gila weh. tapi maybe diaorang pergi jauh tu cara diorang ja"
+    },
+    "18093205985269992": {
+      "repliedAt": "2026-05-10T12:18:05.177Z",
+      "replyPostId": "18097477418152239",
+      "text": "HAHA sorry weh confused engkau jugak. Maksud aku sejak aku praktis jadi kucing k"
+    },
+    "18082430789631203": {
+      "repliedAt": "2026-05-10T12:25:22.656Z",
+      "replyPostId": "18040938014584846",
+      "text": "sedih weh. aku punya dah 9 tahun, setiap kali dia tidur lama sikit aku terus che"
+    },
+    "18084282668084962": {
+      "repliedAt": "2026-05-10T13:07:57.055Z",
+      "replyPostId": "17961681024080991",
+      "text": "this is so true weh. aku dah beli stepping stool kat every spot dia suka tidur, "
+    },
+    "18339297076171332": {
+      "skippedAt": "2026-05-10T13:16:17.843Z",
+      "reason": "historical"
+    },
+    "18118089004742528": {
+      "repliedAt": "2026-05-10T13:25:23.851Z",
+      "replyPostId": "18053325737727172",
+      "text": "oh weh. Emma dah masuk fasa grandma. kucing aku pun dah 10 tahun, kadang dia bua"
+    },
+    "18416713441181062": {
+      "repliedAt": "2026-05-10T13:32:06.504Z",
+      "replyPostId": "18373542529164495",
+      "text": "13 tahun is impressive, Ameng kuat tu. Cherish the slow mornings with dia, those"
+    },
+    "18054476420740949": {
+      "repliedAt": "2026-05-10T13:35:14.810Z",
+      "replyPostId": "18086573285613683",
+      "text": "HAHA weh kau dah faham konsep hidup dengan kucing dah. aku dah stop lawan dah, d"
+    },
+    "18583507633007833": {
+      "repliedAt": "2026-05-10T13:39:36.102Z",
+      "replyPostId": "17888607819502342",
+      "text": "HAHA betul weh, jiran tu cari pasal je. kucing aku 3 ekor pun tak bau apa, dia l"
+    },
+    "17878790352589669": {
+      "repliedAt": "2026-05-10T13:43:56.294Z",
+      "replyPostId": "17861684031627833",
+      "text": "ahh weh jangan fikir macam tu. cherish je every moment sekarang, dia still here "
+    },
+    "18392931016084181": {
+      "repliedAt": "2026-05-10T13:55:21.161Z",
+      "replyPostId": "18071375558423672",
+      "text": "HAHA kucing aku pun sama. pukul 4 pagi dah start tap tap muka suruh bangun"
+    },
+    "18098392405874474": {
+      "repliedAt": "2026-05-10T13:58:32.353Z",
+      "replyPostId": "18592651423003744",
+      "text": "HAHAHA betul weh. kucing aku kalau lambat 5 minit je dia dah duduk atas muka aku"
+    },
+    "18121668643648682": {
+      "repliedAt": "2026-05-10T14:11:16.169Z",
+      "replyPostId": "18124363753537423",
+      "text": "sedih weh, i still rindu my first cat even after 3 years. cherish them extra for"
+    },
+    "18009061451718105": {
+      "repliedAt": "2026-05-10T15:09:28.916Z",
+      "replyPostId": "17854555884662443",
+      "text": "Facts weh. My cat tak dapat party pun tapi aku still spend RM150 on toys dia tak"
+    },
+    "17873398551486206": {
+      "repliedAt": "2026-05-10T15:10:18.472Z",
+      "replyPostId": "18119777233708371",
+      "text": "HAHA setuju weh. dorg tu maybe tak pernah rasa bday cake for cats, so dorg tak t"
+    },
+    "18085931657579251": {
+      "repliedAt": "2026-05-10T15:11:05.275Z",
+      "replyPostId": "18101386616005207",
+      "text": "hahaha true. diorang jealous sebab kucing diorang tak dapat cake."
+    },
+    "18112071175882728": {
+      "repliedAt": "2026-05-10T15:11:52.484Z",
+      "replyPostId": "18004614884911272",
+      "text": "HAHA happy birthday baby dgn olivia! party mana nak datang ni aku bawak hadiah"
+    },
+    "18079684841164350": {
+      "repliedAt": "2026-05-10T15:12:42.456Z",
+      "replyPostId": "18115615921747601",
+      "text": "HAHA weh kucing kau drama queen gila. mine jugak lepas discharge buat muka macam"
+    },
+    "17965428813075425": {
+      "repliedAt": "2026-05-10T15:13:31.889Z",
+      "replyPostId": "17884909038556643",
+      "text": "HAHA muka acah innocent tu classic. kucing aku pun sama pandai buat muka kesian "
+    },
+    "18089896298582157": {
+      "repliedAt": "2026-05-10T15:14:24.244Z",
+      "replyPostId": "18099245792032757",
+      "text": "HAHA aku pun pernah buat menda sama. jiran cakap bising, aku tanya kau dengar ke"
+    },
+    "17851935987676485": {
+      "repliedAt": "2026-05-10T15:15:11.492Z",
+      "replyPostId": "17896539477310222",
+      "text": "sedih weh. aku rasa gitu gak. kadang2 aku peluk kucing aku kuat2 and dia macam m"
+    },
+    "18092203019592017": {
+      "repliedAt": "2026-05-10T15:16:01.034Z",
+      "replyPostId": "18392569906084547",
+      "text": "I feel you weh. Kucing aku pun dah 10 tahun tiap kali dia tidur lama sikit aku d"
+    },
+    "17951125481982560": {
+      "repliedAt": "2026-05-10T15:16:49.138Z",
+      "replyPostId": "18075639431247137",
+      "text": "eh aku pun dengo je umur 8 tahun terus rasa nak nangis. cherish every second weh"
+    },
+    "18111820474862375": {
+      "repliedAt": "2026-05-10T15:17:40.443Z",
+      "replyPostId": "18087528875524686",
+      "text": "weh sedih gila baca ni. aku pun peluk kucing aku kuat2 malam ni sambil cakap jan"
+    },
+    "17887999887375785": {
+      "repliedAt": "2026-05-10T15:18:28.836Z",
+      "replyPostId": "18093517514233472",
+      "text": "sending hugs weh. my first cat was 15 when she passed. cherish every slow zoomie"
+    },
+    "18064964066387758": {
+      "repliedAt": "2026-05-10T15:19:17.514Z",
+      "replyPostId": "18314973985275186",
+      "text": "oh no weh. aku faham sangat, kucing aku 10 tahun dah, tiap pagi kena lap muka di"
+    },
+    "18090786257341656": {
+      "repliedAt": "2026-05-10T15:21:21.424Z",
+      "replyPostId": "18050139428758621",
+      "text": "of course sambut lagi weh. aku pun dah plan birthday party for my kucing next mo"
+    },
+    "18102759436997235": {
+      "repliedAt": "2026-05-10T15:22:10.981Z",
+      "replyPostId": "18084273995100303",
+      "text": "HAHA betul gila. aku yang salah sebab berani postpone breakfast. dia dah set ala"
+    },
+    "17991115478968335": {
+      "repliedAt": "2026-05-11T01:17:46.654Z",
+      "replyPostId": "17899215639285960",
+      "text": "aku faham gila weh. sekarang kalau nampak muncung kucing aku je, terus check lit"
+    },
+    "18085822166167919": {
+      "repliedAt": "2026-05-11T01:18:30.557Z",
+      "replyPostId": "17858839056635471",
+      "text": "HAHA lain macam you panggil kucing ajar you letting go. kucing aku ajar aku jadi"
+    },
+    "18103863167295969": {
+      "repliedAt": "2026-05-11T01:19:15.532Z",
+      "replyPostId": "18130827271577288",
+      "text": "Eh betul tu. Kucing hidup sekali je, biar la kita spoil."
+    },
+    "18093785615232291": {
+      "repliedAt": "2026-05-11T01:20:00.279Z",
+      "replyPostId": "18334584661220319",
+      "text": "Aku pun kena mcm tu gak weh. Biar depa cakap, janji aku bahagia tengok kucing ti"
+    },
+    "17901506970268957": {
+      "repliedAt": "2026-05-11T01:20:49.434Z",
+      "replyPostId": "17947100436170100",
+      "text": "Haha betul tu. orang judge benda kecil padahal hidup dia sendiri pun tak happy. "
+    },
+    "17987473865995078": {
+      "repliedAt": "2026-05-11T01:21:36.152Z",
+      "replyPostId": "18418861627135509",
+      "text": "HAHA aku order dekat Pet Cafe KL, diaorang ada cake kucing halal confirm sedap. "
+    },
+    "18031995221625967": {
+      "repliedAt": "2026-05-11T01:22:22.041Z",
+      "replyPostId": "18049192988522366",
+      "text": "HAHA Aku pun start with treat je tahun lepas, pastu semua rasa bersalah terus be"
+    },
+    "18588229351008125": {
+      "repliedAt": "2026-05-11T01:23:06.291Z",
+      "replyPostId": "17983546418829377",
+      "text": "HAHA betul weh, dorang macam ada radar emosi. kucing aku kalau nangis datang jil"
+    },
+    "17976780575861031": {
+      "repliedAt": "2026-05-11T01:23:53.688Z",
+      "replyPostId": "18051486995573432",
+      "text": "Haha kucing kau macam tahu je waktu sesuai. Aku punya kalau aku demam terus dia "
+    },
+    "17922610041343709": {
+      "repliedAt": "2026-05-11T01:24:41.053Z",
+      "replyPostId": "18096233333468721",
+      "text": "Aduhhh same weh. Kucing aku kalau nampak aku sedih dia akan dtg duduk atas riba "
+    },
+    "18014109095891086": {
+      "repliedAt": "2026-05-11T01:25:27.902Z",
+      "replyPostId": "17929266639272968",
+      "text": "HAHA weh kucing aku lagi pandai taip dari kau tulis complaint"
+    },
+    "17943510861018243": {
+      "repliedAt": "2026-05-11T01:26:16.239Z",
+      "replyPostId": "17944528188185926",
+      "text": "aish macam tu pun kau nak dengar.. xkan la kucing aku busuk sgt. jiran kau jealo"
+    },
+    "18324303520265796": {
+      "repliedAt": "2026-05-11T01:26:56.982Z",
+      "replyPostId": "17961153275942309",
+      "text": "HAHA betul gila. bau tu imaginary je dia yang lemau tak tahan"
+    },
+    "18103915120998301": {
+      "repliedAt": "2026-05-11T01:27:41.956Z",
+      "replyPostId": "18050207210758595",
+      "text": "HAHAHA memang. jiran kau tu tak ada apa nak buat. kucing aku 3 ekor dalam apartm"
+    },
+    "18102622402974783": {
+      "repliedAt": "2026-05-11T01:28:28.120Z",
+      "replyPostId": "18049294373767582",
+      "text": "HAHA kau ni jiran level bawah ke apa. kucing aku 5 ekor tak pernah bau pun, mayb"
+    },
+    "18093334067592270": {
+      "repliedAt": "2026-05-11T01:29:12.317Z",
+      "replyPostId": "17902915872263404",
+      "text": "HAHA padan muka jiran kau. maybe dia dengar pakai telinga kucing dia sendiri yan"
+    },
+    "18208578889337473": {
+      "repliedAt": "2026-05-11T01:30:01.409Z",
+      "replyPostId": "18119209126590400",
+      "text": "HAHA maksud dia jiran kau tu dengar busuk ke tak, bukan bau busuk. klasik la tu "
+    },
+    "18369933157203729": {
+      "repliedAt": "2026-05-11T01:30:46.962Z",
+      "replyPostId": "18088820837251366",
+      "text": "HAHA weh tu trick lama aku guna dulu. cakap je bau tu dari mulut kau mengumpat t"
+    },
+    "18182985628378989": {
+      "repliedAt": "2026-05-11T01:31:33.579Z",
+      "replyPostId": "18172112164408377",
+      "text": "HAHA bibik tu jaga kau ke jaga phone. kucing aku pun suka tap my phone away"
+    },
+    "18103768978769499": {
+      "repliedAt": "2026-05-11T01:32:21.588Z",
+      "replyPostId": "18387041293094883",
+      "text": "aku setuju bab kebersihan tu weh, tapi jiran kau tu nampak macam cari pasal je. "
+    },
+    "18141576112454617": {
+      "repliedAt": "2026-05-11T01:33:08.158Z",
+      "replyPostId": "18163543666385890",
+      "text": "HAHA weh jangan main kencing kat luar rumah je confirm tak bau apa pun. jiran ka"
+    },
+    "17945908044173434": {
+      "repliedAt": "2026-05-11T01:33:53.982Z",
+      "replyPostId": "18184156957343624",
+      "text": "HAHA eh ko ni kasar gila. Tapi honestly kucing tak busuk kalau rajin bersihkan l"
+    },
+    "18114432988697967": {
+      "repliedAt": "2026-05-11T01:34:38.107Z",
+      "replyPostId": "18203080345349039",
+      "text": "indoor lah weh. semua steril and guna litter robot. jiran tu cuma nak cari pasal"
+    },
+    "18098199929099043": {
+      "repliedAt": "2026-05-11T01:35:27.361Z",
+      "replyPostId": "17954497308129012",
+      "text": "HAHA tahi tak bercakap tapi mulut jiran tu lagi busuk dari tahi kucing aku weh \ud83d"
+    },
+    "18092482811238245": {
+      "repliedAt": "2026-05-11T01:36:13.968Z",
+      "replyPostId": "18089164355609670",
+      "text": "HAHA weh ko ni lain macam. kucing liar memang xde adab, tapi jiran flat ko pun s"
+    },
+    "18080085803537793": {
+      "repliedAt": "2026-05-11T01:36:59.006Z",
+      "replyPostId": "18064939019389547",
+      "text": "HAHAHA statement paling kuat. jiran kau tu confirm duduk jauh level dengki je tu"
+    },
+    "17876753193455268": {
+      "repliedAt": "2026-05-11T01:37:44.472Z",
+      "replyPostId": "17988187736991576",
+      "text": "HAHA weh jiran kau nak kena bagi kucing terjah rumah dia sehari. baru dia tau ba"
+    },
+    "18088462403614848": {
+      "repliedAt": "2026-05-11T01:38:26.550Z",
+      "replyPostId": "18119068675664010",
+      "text": "HAHA jiran tu. bau dengki dia lagi busuk dari litter box kucing aku weh."
+    },
+    "18086495900626259": {
+      "repliedAt": "2026-05-11T01:39:16.273Z",
+      "replyPostId": "18313638343278226",
+      "text": "HAHA meow meow gak kau. Kucing aku boleh type better dari kau weh"
+    },
+    "18072120131312490": {
+      "repliedAt": "2026-05-11T01:40:06.340Z",
+      "replyPostId": "18081860414409879",
+      "text": "Alhamdulillah dia still ada dengan kau weh. aku paham sangat perasaan tu, kucing"
+    },
+    "18066494840348366": {
+      "repliedAt": "2026-05-11T01:40:50.458Z",
+      "replyPostId": "18578347774002542",
+      "text": "16 tahun tu dah veteran weh. kau dah bagi dia hidup yang panjang dan bahagia, it"
+    },
+    "17944119195079460": {
+      "repliedAt": "2026-05-11T01:41:34.984Z",
+      "replyPostId": "18102779698998533",
+      "text": "eh weh jangan cakap macam tu. aku dah start stress fikir kucing aku dah 5 tahun."
+    },
+    "18114764389696884": {
+      "repliedAt": "2026-05-11T01:42:19.919Z",
+      "replyPostId": "18593714089057083",
+      "text": "ya Allah 16 tahun tu dah kira ibu segala kucing dah tu. semoga chenta sihat sela"
+    },
+    "17938898370212657": {
+      "repliedAt": "2026-05-11T01:43:05.580Z",
+      "replyPostId": "18121917643577169",
+      "text": "17 years wow, dia dah hidup lama tu. kucing aku 8 je dah slow, kau mesti sedih t"
+    },
+    "18061112759460591": {
+      "repliedAt": "2026-05-11T01:43:52.247Z",
+      "replyPostId": "18234698011308401",
+      "text": "adoiii sakit hati baca ni. 13 tahun tu lama sangat. dia pasti tunggu kau dari sa"
+    },
+    "18123894514622289": {
+      "repliedAt": "2026-05-11T01:44:38.002Z",
+      "replyPostId": "18099037790025149",
+      "text": "14 tahun tu rezeki panjang dah tu. aku ada seekor 16 tahun, gerak macam hantu ta"
+    },
+    "18097288655169531": {
+      "repliedAt": "2026-05-11T01:45:27.095Z",
+      "replyPostId": "17867608596676952",
+      "text": "16 tahun tu dah veteran weh, veteran nak makan je. kucing aku 10 tahun pun dah s"
+    },
+    "17947200548999963": {
+      "repliedAt": "2026-05-11T01:46:13.813Z",
+      "replyPostId": "17875418691469153",
+      "text": "ehhh kucing aku baru 9 tahun pun dah start slow. i tau tu rasa. every time diora"
+    },
+    "18005056754734322": {
+      "repliedAt": "2026-05-11T01:47:02.145Z",
+      "replyPostId": "18121797391639103",
+      "text": "eh weh i feel u. mine 9 years old too and i dread the day. but at least kau puny"
+    },
+    "18019220189832569": {
+      "repliedAt": "2026-05-11T01:47:50.696Z",
+      "replyPostId": "17871379320612088",
+      "text": "sama weh, kadang2 time dia tidur senyap2 aku dah start fikir pasal tu 😭 pastu t"
+    },
+    "17969937885029784": {
+      "repliedAt": "2026-05-11T01:48:33.281Z",
+      "replyPostId": "17863993962684815",
+      "text": "aahh weh i feel you. everytime kucing aku bersin je terus google symptoms sampai"
+    },
+    "17987919881987705": {
+      "repliedAt": "2026-05-11T01:49:22.175Z",
+      "replyPostId": "18149614738483327",
+      "text": "aduih weh, sedih gila dengar. kucing aku umur 10 tahun dah, tiap kali dia lelap "
+    },
+    "18013714907845373": {
+      "repliedAt": "2026-05-11T01:50:06.155Z",
+      "replyPostId": "18112448527857336",
+      "text": "sedih gila weh. kucing aku pun makin tua, tiap kali dia lelap aku duk usha dia g"
+    },
+    "18316569058272441": {
+      "repliedAt": "2026-05-11T01:50:52.006Z",
+      "replyPostId": "18076087901214799",
+      "text": "Alhamdulillah sihat lagi tu. 11 tahun still aktif tu rezeki besar weh. 🥺"
+    },
+    "18046081217604646": {
+      "repliedAt": "2026-05-11T01:51:36.849Z",
+      "replyPostId": "18104172310787000",
+      "text": "Haih weh jangan cakap macam tu. aku pun dah start mental prepare since kucing ak"
+    },
+    "18126998287717910": {
+      "repliedAt": "2026-05-11T01:52:22.019Z",
+      "replyPostId": "17914166118184617",
+      "text": "sedih weh aku faham. kucing aku 9 tahun dah malas nak kejar mainan, aku pun baru"
+    },
+    "18121019062631640": {
+      "repliedAt": "2026-05-11T01:53:10.377Z",
+      "replyPostId": "18170504137418755",
+      "text": "weh sedih gila baca ni. kucing aku pun 9 tahun dah, setiap kali dia tido lama si"
+    },
+    "18026781056812244": {
+      "repliedAt": "2026-05-11T01:53:55.332Z",
+      "replyPostId": "17879326095584366",
+      "text": "12 tahun tu satu pencapaian tau. Aku pun dah mula sedar slow sikit gerak dia tap"
+    },
+    "18154680355465019": {
+      "repliedAt": "2026-05-11T01:54:38.789Z",
+      "replyPostId": "18094692080126321",
+      "text": "relate sangat weh. aku pun dah start sedih tengok kucing aku 7 tahun dah malas m"
+    },
+    "18340860532173083": {
+      "repliedAt": "2026-05-11T01:55:23.702Z",
+      "replyPostId": "17990443790967133",
+      "text": "weh i feel you. my eldest dah 7 tahun and setiap kali dia tidur lama sikit, aku "
+    },
+    "17889732735494679": {
+      "repliedAt": "2026-05-11T01:56:13.165Z",
+      "replyPostId": "17914792254368410",
+      "text": "sedih weh bila fikir pasal gigi dia dah jarang. kucing aku 9 tahun, gigi dah tin"
+    },
+    "18096265811153503": {
+      "repliedAt": "2026-05-11T01:56:58.988Z",
+      "replyPostId": "18004536260909061",
+      "text": "weh tu sedih gila aku pun sebak baca. kucing hitam tu memang soulmate kau. dia t"
+    },
+    "17967198576056862": {
+      "repliedAt": "2026-05-11T01:57:42.969Z",
+      "replyPostId": "17991115886971078",
+      "text": "weh sakit hati aku baca ni. kucing 10 tahun tu dah macam ahli keluarga. aku taku"
+    },
+    "17962566858069423": {
+      "repliedAt": "2026-05-11T01:58:27.819Z",
+      "replyPostId": "17980022025006773",
+      "text": "haaa nanti kau menangis masa umur 12 tahun tu 😭 but seriously semoga panjang um"
+    },
+    "18090762659340247": {
+      "repliedAt": "2026-05-11T02:00:24.043Z",
+      "replyPostId": "18064661168392992",
+      "text": "eh sorry tapi tu husband kau wise gila weh. 800 ringgit tu better untuk baby dar"
+    },
+    "18088618679355760": {
+      "repliedAt": "2026-05-11T02:01:14.424Z",
+      "replyPostId": "18407694181177687",
+      "text": "HAHA betul gila. kucing aku RM5 dari rescue pastu dia makan RM200 sebulan. breed"
+    },
+    "18100796723515016": {
+      "repliedAt": "2026-05-11T02:02:03.678Z",
+      "replyPostId": "17975201055010984",
+      "text": "HAHA gila weh 10k tu dah boleh downpayment kereta. tapi honestly respect the ded"
+    },
+    "18102839671988708": {
+      "repliedAt": "2026-05-11T02:02:51.511Z",
+      "replyPostId": "17924378274301924",
+      "text": "HAHA betul gila weh. admin hide comment tapi post toxic jiran tu still ada, lawa"
+    },
+    "18466580716102484": {
+      "repliedAt": "2026-05-11T02:03:37.272Z",
+      "replyPostId": "17960996651939220",
+      "text": "HAHA lawak weh jiran tu pura-pura boleh dengar bau 😭"
+    },
+    "18080042426540227": {
+      "repliedAt": "2026-05-11T02:04:28.211Z",
+      "replyPostId": "18100749272046974",
+      "text": "Aku faham perasaan tu bro. Kucing aku 13 tahun dah macam zombie walk sikit2 tapi"
+    },
+    "18156906949455409": {
+      "repliedAt": "2026-05-11T02:05:17.245Z",
+      "replyPostId": "18113024110872330",
+      "text": "12 years is a blessing bro. Cherish every purr and slow blink, those are her way"
+    },
+    "18102824251956574": {
+      "repliedAt": "2026-05-11T02:11:48.931Z",
+      "replyPostId": "18007012394856906",
+      "text": "HAHA weh real talk maybe kucing dia tak kena manage properly. kucing aku mandi r"
+    },
+    "18089961149593583": {
+      "repliedAt": "2026-05-11T02:14:50.764Z",
+      "replyPostId": "18069864515330123",
+      "text": "eh tapi seriously aku rasa diorang faham jugak. after vet dia akan datang duduk "
+    },
+    "17927382810306555": {
+      "repliedAt": "2026-05-11T02:23:43.145Z",
+      "replyPostId": "18105982112489428",
+      "text": "weh jangan pergi personal bro. kucing aku wangi lagi dari jiran kau tu."
+    },
+    "18439717549186780": {
+      "repliedAt": "2026-05-11T02:25:36.794Z",
+      "replyPostId": "17925261084313044",
+      "text": "HAHAHAHA bau pakai telinga tu lawak gila weh. jiran aku pun sama, tapi dia bisin"
+    },
+    "18099477698022322": {
+      "repliedAt": "2026-05-11T02:29:47.510Z",
+      "replyPostId": "18312967180287574",
+      "text": "HAHA betul weh, jiran tu dengar gak ke tak? Kucing aku pun haritu muntah dekat b"
+    },
+    "17976289157862851": {
+      "repliedAt": "2026-05-11T02:45:19.033Z",
+      "replyPostId": "18315946513263294",
+      "text": "Hah tu la weh, rule tu buat sakit hati. Tapi kucing aku mmg jaga kebersihan, jir"
+    },
+    "17969539224025697": {
+      "repliedAt": "2026-05-11T02:47:09.044Z",
+      "replyPostId": "18064866947395317",
+      "text": "HAHAHA padan muka dia. kucing aku lagi berkuasa dari tetamu tak diundang."
+    },
+    "17969145557900875": {
+      "repliedAt": "2026-05-11T02:59:50.349Z",
+      "replyPostId": "18086037632178340",
+      "text": "oh shit tu dia punya biggest fear as a shelter volunteer. i hope so too. tapi ka"
+    },
+    "18080633552399654": {
+      "repliedAt": "2026-05-11T03:00:40.582Z",
+      "replyPostId": "18037506545603907",
+      "text": "weh jangan sedih sangat. at least kau buat keputusan bertanggungjawab hantar she"
+    },
+    "18107302945897420": {
+      "repliedAt": "2026-05-11T03:06:02.568Z",
+      "replyPostId": "17888192958376619",
+      "text": "HAHA betul weh. kucing aku punya rumah, kalau kau datang kau kena hormat dia dul"
+    },
+    "18128699353591097": {
+      "repliedAt": "2026-05-11T03:09:05.478Z",
+      "replyPostId": "18000623993927837",
+      "text": "HAHA betul gila weh. kucing aku dah tuan rumah, kita pun tetamu je"
+    },
+    "18172548823408529": {
+      "repliedAt": "2026-05-11T03:11:03.073Z",
+      "replyPostId": "18081870149452004",
+      "text": "HAHA betul weh. aku bagi kucing aku spa treatment RM80 sebulan. orang kata gila."
+    },
+    "17965738227108084": {
+      "repliedAt": "2026-05-11T03:12:52.376Z",
+      "replyPostId": "18153591208471249",
+      "text": "eh tu lah sedihnya. aku pun pernah rasa guilt gila lepas terpaksa rehome seekor "
+    },
+    "18083153054382530": {
+      "repliedAt": "2026-05-11T04:08:56.433Z",
+      "replyPostId": "18120160813710246",
+      "text": "HAHA lawak tul. jiran kau tu mcm baru tau ada kucing kat Malaysia. maybe dia ing"
+    },
+    "18095085779125370": {
+      "repliedAt": "2026-05-11T04:09:47.838Z",
+      "replyPostId": "18104577314486031",
+      "text": "HAHA sorry weh bukan nak ketawa tapi i relate gila. kucing i punya birthday i be"
+    },
+    "17886913968516052": {
+      "repliedAt": "2026-05-11T04:10:33.531Z",
+      "replyPostId": "17938774503224466",
+      "text": "HAHA betul gila weh. jealous je tu sbb kucing diorang tak dapat cake mahal macam"
+    },
+    "18163874281428910": {
+      "repliedAt": "2026-05-11T04:17:28.590Z",
+      "replyPostId": "18093889243942233",
+      "text": "HAHA weh chill lah. aku 3 ekor pun dah cuci litter box 2 kali sehari. maybe kau "
+    },
+    "18088152368032249": {
+      "repliedAt": "2026-05-11T04:31:13.818Z",
+      "replyPostId": "18059851793708113",
+      "text": "duhh my heart 💔 seriously that's why i'll never judge indoor cat parents. my au"
+    },
+    "17996795372957715": {
+      "repliedAt": "2026-05-11T04:39:01.650Z",
+      "replyPostId": "18107444662903025",
+      "text": "tak pernah pergi. malu gila. tapi aku fikir pasal dia setiap hari. sakit hati we"
+    },
+    "17986490921811957": {
+      "repliedAt": "2026-05-11T04:41:06.579Z",
+      "replyPostId": "18081806459421221",
+      "text": "HAHA aku setuju gila. jiran tu takde benda lain nak buat. kucing aku 3 ekor pun "
+    },
+    "18103221208975741": {
+      "repliedAt": "2026-05-11T04:46:31.161Z",
+      "replyPostId": "17874135840657059",
+      "text": "HAHA weh same gila. my cat buat hal je aku senyap je tapi orang buat hal sket ak"
+    },
+    "18105368675293953": {
+      "repliedAt": "2026-05-11T04:47:19.599Z",
+      "replyPostId": "18013134890700116",
+      "text": "aku pun selalu gitu setiap kali dia tidur. gatal tangan tepuk tepuk dia pastu di"
+    },
+    "18033684068801267": {
+      "repliedAt": "2026-05-11T04:50:20.666Z",
+      "replyPostId": "18088684976367288",
+      "text": "weh i feel you. aku pun still simpan gambar kucing aku yg dah pergi. every now a"
+    },
+    "18065859770373205": {
+      "repliedAt": "2026-05-11T04:55:45.686Z",
+      "replyPostId": "17938221084238275",
+      "text": "HAHAHA betul weh, jiran kau tu memang cari pasal je. kucing aku dua ekor pun dah"
+    },
+    "18102781702970526": {
+      "repliedAt": "2026-05-11T05:02:21.028Z",
+      "replyPostId": "17908951869409418",
+      "text": "HAHA weh kucing tak cover aurat dah jadi norma. aku dah give up tegur dia dah"
+    },
+    "18076869494207123": {
+      "repliedAt": "2026-05-11T05:04:19.475Z",
+      "replyPostId": "18191890609370456",
+      "text": "HAHA weh kau ni jiran busuk hatilah. kucing aku 3 ekor pun tak bau apa, kau mand"
+    },
+    "18100958105011413": {
+      "repliedAt": "2026-05-11T05:06:10.210Z",
+      "replyPostId": "18141819442504710",
+      "text": "HAHA weh kucing aku pun sama, tidur macam dah surrender diri. Pastu dia marah pu"
+    },
+    "18090973484605891": {
+      "repliedAt": "2026-05-11T05:06:58.660Z",
+      "replyPostId": "17919788820146959",
+      "text": "HAHAHA padan muka jiran tu. Kucing aku 3 ekor pun dah macam gangster dalam rumah"
+    },
+    "18092405713971695": {
+      "repliedAt": "2026-05-11T05:08:47.716Z",
+      "replyPostId": "18117197644688333",
+      "text": "eh jangan cakap macam tu. kucing aku kalau tidur macam tu confirm lepas tu kenci"
+    },
+    "17893808955332851": {
+      "repliedAt": "2026-05-11T05:09:37.468Z",
+      "replyPostId": "18099283202326934",
+      "text": "weh jangan fikir macam tu, nanti aku pun sedih. semoga Tom kuat macam kucing aku"
+    },
+    "18108273007920474": {
+      "repliedAt": "2026-05-11T05:11:23.262Z",
+      "replyPostId": "17937130080240382",
+      "text": "HAHAHA terbalik gila weh. kucing kau tidur macam dah surrender hidup"
+    },
+    "18438161512140398": {
+      "repliedAt": "2026-05-11T05:14:29.896Z",
+      "replyPostId": "18091006741983940",
+      "text": "HAHAHA weh sama gila. Cik Waffle punya pose lagi power, kaki terbang macam nak f"
+    },
+    "18101443261819929": {
+      "repliedAt": "2026-05-11T05:18:52.389Z",
+      "replyPostId": "18000185021933596",
+      "text": "eh 8 tahun tu masih muda lagi weh. kucing aku 12 tahun baru mula slow, mochi con"
+    },
+    "17877190662453689": {
+      "repliedAt": "2026-05-11T05:20:46.771Z",
+      "replyPostId": "17984219814000592",
+      "text": "Ya Allah I feel you. Kucing aku 9 tahun now and every time dia slow down sikit a"
+    },
+    "17951630336984118": {
+      "repliedAt": "2026-05-11T05:30:42.846Z",
+      "replyPostId": "18357851620224377",
+      "text": "HAHA muka judge tu priceless weh. makcik tu fikir taman kucing bau bunga kot 😭"
+    },
+    "18463037776106198": {
+      "repliedAt": "2026-05-11T05:39:43.512Z",
+      "replyPostId": "17902668300261971",
+      "text": "HAHA weh dia buat-buat tido tu. padahal mata tengah intai ko dari celah bulu."
+    },
+    "18064828193399592": {
+      "repliedAt": "2026-05-11T05:45:11.608Z",
+      "replyPostId": "17951076350981073",
+      "text": "HAHA weh kucing mana ada tangan. kaki semua tu. ko yang confuse"
+    },
+    "17957599764070009": {
+      "repliedAt": "2026-05-11T05:54:17.402Z",
+      "replyPostId": "18011863406853452",
+      "text": "HAHA sepengsan dia. aku pun nak jadi kucing, tak payah fikir kerja."
+    },
+    "18120564823647577": {
+      "repliedAt": "2026-05-11T06:02:06.201Z",
+      "replyPostId": "18093025658189265",
+      "text": "HAHA betul gila weh. kucing aku pun sama. usap sket je trus kick muka aku pakai "
+    }
+  },
+  "userPostReplyCount": {
+    "18377031223165063::izzahmrz": 1,
+    "18009047648904988::______hsshywyahusyye___": 1,
+    "17994043637950516::wantmomentplease": 1,
+    "18009047648904988::dinding_ku33": 1,
+    "18009047648904988::lyddamzah": 1,
+    "18009047648904988::assilamalinamzln": 1,
+    "18009047648904988::yes_i_amserious": 1,
+    "18102185948048420::freshkart_klangvalley": 1,
+    "18377031223165063::nur.ily": 1,
+    "18009047648904988::marahaenyl": 1,
+    "18102185948048420::kyrilazhar": 1,
+    "18102185948048420::nyrixxie": 1,
+    "18009047648904988::reemanzhm": 1,
+    "18137982178522853::arlaxyhe": 1,
+    "18137982178522853::novegepanchi": 1,
+    "18137982178522853::pseudomyn": 1,
+    "18137982178522853::eas_annisa": 1,
+    "18210853315335791::farehjay": 1,
+    "18210853315335791::reyzamry": 1,
+    "18377031223165063::razan.mcmxciv": 1,
+    "18009047648904988::aanggunnalaa": 1,
+    "18009047648904988::thesleepingsoul365": 1,
+    "18009047648904988::yienaraaa_": 1,
+    "18009047648904988::s.typhi": 1,
+    "18009047648904988::aistashhere": 1,
+    "18009047648904988::qwertyuiop123.05": 1,
+    "18137982178522853::ladyvaltoria": 1,
+    "18102185948048420::wida_raz2025": 1,
+    "18322553878268232::sweetlikechocolet": 1,
+    "18083209877420897::ieyma_bunn": 1,
+    "18137982178522853::zac_othman": 1,
+    "18137982178522853::venus.vnxs": 1,
+    "18137982178522853::kyrilazhar": 1,
+    "18137982178522853::rynamarina25": 1,
+    "18137982178522853::pinkiemonster": 1,
+    "18082766177452013::marieamdp": 1,
+    "18082766177452013::ieraaaaaaaaaali": 1,
+    "18082766177452013::catrine_233": 1,
+    "18377031223165063::shyrastilinski": 1,
+    "18377031223165063::wallnautnubis": 1,
+    "18377031223165063::mutedrhythm_": 1,
+    "18377031223165063::aisy_idris": 1,
+    "18377031223165063::sexy_beat7": 1,
+    "18377031223165063::munira.halim27": 1,
+    "18377031223165063::arima_aruniaz": 1,
+    "18377031223165063::paripari.syurga": 1,
+    "18377031223165063::haniadanan": 1,
+    "18377031223165063::akmal_rasidi": 1,
+    "18377031223165063::eyeizudin": 1,
+    "18377031223165063::syahir_me": 1,
+    "18377031223165063::miszhazel": 1,
+    "18377031223165063::sasasashasha_": 1,
+    "18377031223165063::farriesyaizzatyrafi": 1,
+    "18377031223165063::_aminaris_": 1,
+    "18377031223165063::starryshya": 1,
+    "18377031223165063::njihah_saidin": 1,
+    "18377031223165063::aa_aadnin": 1,
+    "18009047648904988::kikiratul_demok": 1,
+    "18009047648904988::nez2806": 1,
+    "18009047648904988::asyiqin_ngisomudin": 1,
+    "18009047648904988::dreamz.chasersz": 1,
+    "18009047648904988::nrlayiinnn": 1,
+    "18009047648904988::nureen_ak": 1,
+    "18009047648904988::takeahike.flyakite": 1,
+    "18009047648904988::hanisezzatulfarahah": 1,
+    "18009047648904988::nurjustnur": 1,
+    "18009047648904988::hzathiyyah": 1,
+    "18009047648904988::syerae_": 1,
+    "18009047648904988::irdinnnramli": 1,
+    "18009047648904988::nadinesoraya55": 1,
+    "18009047648904988::ashira.shh": 1,
+    "18009047648904988::111888u111888": 1,
+    "18009047648904988::multazimahzaini": 1,
+    "18009047648904988::mtnkrm_": 1,
+    "18009047648904988::izzati_azwan": 1,
+    "18009047648904988::drapedbymelur_": 1,
+    "18009047648904988::yawn7un": 1,
+    "18009047648904988::4mal.s": 1,
+    "18009047648904988::nrdeanaa._": 1,
+    "18009047648904988::loves.aint": 1,
+    "18009047648904988::efrhna": 1,
+    "18009047648904988::moaz_amin20": 1,
+    "17965071087104384::f44__raway": 1,
+    "17965071087104384::aisydeaz": 1,
+    "18137982178522853::fatvampirewholost1fang": 1,
+    "18377031223165063::animsiq.8": 1,
+    "18377031223165063::umiiesss": 1,
+    "18009047648904988::amarmarvelous": 1,
+    "18009047648904988::xhaniix": 1,
+    "18377031223165063::sswiskmto": 1,
+    "18210853315335791::bella.yoora": 1,
+    "18377031223165063::h.husna_": 1,
+    "18377031223165063::itsrentania": 1,
+    "18377031223165063::zyaaa2525": 1,
+    "18377031223165063::hbyh_creation": 1,
+    "18113066935788963::delryaa_": 1,
+    "18096675623132916::sitikaren_ah": 1,
+    "18096675623132916::arralxx": 1,
+    "18113066935788963::_projectcatscouncil_": 1,
+    "18113066935788963::shez_id": 1,
+    "18137982178522853::shuu.aki7": 1,
+    "18096675623132916::crab__anonymous": 1,
+    "18113066935788963::catrine_233": 1,
+    "18137982178522853::_youngrain": 2,
+    "18377031223165063::scha_roslan": 1,
+    "18135529423533302::catrine_233": 1,
+    "18096675623132916::randomthoughts2.86": 1,
+    "18377031223165063::amarisalily19": 1,
+    "18083209877420897::catrine_233": 1,
+    "18009047648904988::aisydeaz": 1,
+    "18009047648904988::nik_mawar89": 1,
+    "18377031223165063::cikpuaneima": 1,
+    "18130285009585563::fahananananana": 1,
+    "18377031223165063::syazniizafi": 1,
+    "18130285009585563::anis_garden75": 1,
+    "18377031223165063::lilitt.bag": 1,
+    "18130285009585563::l0v3.dee_": 1,
+    "18009047648904988::ayue_mimau": 1,
+    "18130285009585563::catrine_233": 1,
+    "18130285009585563::serinarezwan": 1,
+    "18009047648904988::aishahmutalibb": 1,
+    "18009047648904988::thefateofaint": 1,
+    "18113066935788963::widadmatakhir": 1,
+    "18130285009585563::chegu": 1,
+    "18130285009585563::seekorcomel": 1,
+    "18130285009585563::nashzelima": 1,
+    "18130285009585563::raja.azaria": 1
+  },
+  "startedAt": "2026-05-10T12:05:31.900Z",
+  "rotation": {},
+  "recentReplies": []
+}

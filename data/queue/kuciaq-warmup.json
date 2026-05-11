@@ -151,1220 +151,79 @@
     "posted_at": "2026-05-05T23:01:15.163Z"
   },
   {
-    "id": "kq-ai-018",
-    "date": "2026-05-06",
-    "status": "pending",
-    "text": "ramai tanya foster kucing honestly aku tak faham kenapa",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-06T04:00:00.000Z"
-  },
-  {
     "id": "kq-ai-020",
-    "date": "2026-05-06",
-    "status": "pending",
+    "date": "2026-05-10",
+    "status": "posted",
     "text": "sejak aku praktis kucing kurus dulu aku tak faham tapi sekarang",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-06T09:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-022",
-    "date": "2026-05-06",
-    "status": "pending",
-    "text": "korang yang tengah kucing tak mandi aku kena learn the hard way",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-06T13:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-025",
-    "date": "2026-05-07",
-    "status": "pending",
-    "text": "lepas kena aku cat cafe dulu aku ingat aku sorang je",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-07T01:30:00.000Z"
+    "scheduled_utc": "2026-05-10T09:00:00Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T12:11:02.093Z",
+    "thread_id": "17994043637950516",
+    "thread_chain_ids": [
+      "17994043637950516"
+    ],
+    "posted_at": "2026-05-10T12:11:43.682Z"
   },
   {
     "id": "kq-ai-027",
-    "date": "2026-05-07",
-    "status": "pending",
+    "date": "2026-05-10",
+    "status": "posted",
     "text": "aku baru perasan cat toys aku selalu cakap dengan kawan (2)",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-07T06:30:00.000Z"
+    "scheduled_utc": "2026-05-10T06:30:00Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T12:04:19.265Z",
+    "thread_id": "18062149781442370",
+    "thread_chain_ids": [
+      "18062149781442370"
+    ],
+    "posted_at": "2026-05-10T12:04:57.421Z"
   },
   {
     "id": "kq-ai-028",
-    "date": "2026-05-07",
-    "status": "pending",
+    "date": "2026-05-10",
+    "status": "posted",
     "text": "dulu aku ingat cat tree honestly aku tak faham kenapa (2)",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-07T09:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-029",
-    "date": "2026-05-07",
-    "status": "pending",
-    "text": "ramai cat parent laser pointer aku pernah rasa macam ni (2)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-07T11:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-031",
-    "date": "2026-05-07",
-    "status": "pending",
-    "text": "kucing aku pernah hairball ramai orang cakap lain tapi (2)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-07T14:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-033",
-    "date": "2026-05-08",
-    "status": "pending",
-    "text": "dulu aku tak kisah neutering sebenarnya benda ni simple je (2)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-08T01:30:00.000Z"
+    "scheduled_utc": "2026-05-10T09:00:00Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T12:12:43.695Z",
+    "thread_id": "18055666331543022",
+    "thread_chain_ids": [
+      "18055666331543022"
+    ],
+    "posted_at": "2026-05-10T12:13:28.213Z"
   },
   {
     "id": "kq-ai-035",
-    "date": "2026-05-08",
-    "status": "pending",
+    "date": "2026-05-10",
+    "status": "posted",
     "text": "aku selalu fikir pet insurance dulu aku ingat aku sorang je (2)",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-08T06:30:00.000Z"
+    "scheduled_utc": "2026-05-10T06:30:00Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T12:02:35.804Z",
+    "thread_id": "17947240886998729",
+    "thread_chain_ids": [
+      "17947240886998729"
+    ],
+    "posted_at": "2026-05-10T12:03:19.239Z"
   },
   {
     "id": "kq-ai-036",
-    "date": "2026-05-08",
-    "status": "pending",
+    "date": "2026-05-10",
+    "status": "posted",
     "text": "lepas kucing aku water fountain lepas aku kena sendiri baru (2)",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-08T09:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-053",
-    "date": "2026-05-10",
-    "status": "pending",
-    "text": "aku baru perasan kucing manja sebenarnya benda ni simple je (3)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-10T11:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-056",
-    "date": "2026-05-11",
-    "status": "pending",
-    "text": "sejak adopt kucing kucing tak makan lepas aku kena sendiri baru (3)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-10T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-058",
-    "date": "2026-05-11",
-    "status": "pending",
-    "text": "tipulah kalau cakap kucing tidur honestly aku tak faham kenapa (3)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-11T04:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-062",
-    "date": "2026-05-11",
-    "status": "pending",
-    "text": "lepas kucing aku kucing jealous aku kena learn the hard way (3)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-11T13:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-063",
-    "date": "2026-05-11",
-    "status": "pending",
-    "text": "korang kena prepare travel cat sebenarnya benda ni simple je (3)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-11T14:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-065",
-    "date": "2026-05-12",
-    "status": "pending",
-    "text": "honestly aku tak faham kucing overgroom dulu aku ingat aku sorang je (3)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-12T01:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-066",
-    "date": "2026-05-12",
-    "status": "pending",
-    "text": "kucing aku selalu kucing takut bunyi lepas aku kena sendiri baru (3)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-12T04:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-068",
-    "date": "2026-05-12",
-    "status": "pending",
-    "text": "korang pernah tak TNR honestly aku tak faham kenapa (3)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-12T09:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-073",
-    "date": "2026-05-13",
-    "status": "pending",
-    "text": "dulu aku skeptical kucing korek sofa sebenarnya benda ni simple je (3)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-13T01:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-074",
-    "date": "2026-05-13",
-    "status": "pending",
-    "text": "korang yang tengah cat cafe aku wish vet bagi tahu awal (3)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-13T04:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-076",
-    "date": "2026-05-13",
-    "status": "pending",
-    "text": "aku selalu cakap cat toys lepas aku kena sendiri baru (3)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-13T09:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-077",
-    "date": "2026-05-13",
-    "status": "pending",
-    "text": "lepas kena aku cat tree aku selalu cakap dengan kawan (3)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-13T11:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-078",
-    "date": "2026-05-13",
-    "status": "pending",
-    "text": "korang punya kucing laser pointer honestly aku tak faham kenapa (4)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-13T13:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-079",
-    "date": "2026-05-13",
-    "status": "pending",
-    "text": "aku baru perasan catnip aku pernah rasa macam ni (4)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-13T14:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-080",
-    "date": "2026-05-14",
-    "status": "pending",
-    "text": "dulu aku ingat hairball dulu aku tak faham tapi sekarang (4)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-13T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-082",
-    "date": "2026-05-14",
-    "status": "pending",
-    "text": "sejak adopt kucing neutering aku kena learn the hard way (4)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-14T04:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-084",
-    "date": "2026-05-14",
-    "status": "pending",
-    "text": "tipulah kalau cakap pet insurance aku wish vet bagi tahu awal (4)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-14T09:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-088",
-    "date": "2026-05-15",
-    "status": "pending",
-    "text": "lepas kucing aku scratching post honestly aku tak faham kenapa (4)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-14T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-089",
-    "date": "2026-05-15",
-    "status": "pending",
-    "text": "korang kena prepare cat carrier aku pernah rasa macam ni (4)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-15T01:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-091",
-    "date": "2026-05-15",
-    "status": "pending",
-    "text": "honestly aku tak faham nail trim ramai orang cakap lain tapi (4)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-15T06:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-092",
-    "date": "2026-05-15",
-    "status": "pending",
-    "text": "kucing aku selalu ear cleaning aku kena learn the hard way (4)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-15T09:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-093",
-    "date": "2026-05-15",
-    "status": "pending",
-    "text": "aku baru sedar dental care sebenarnya benda ni simple je (4)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-15T11:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-095",
-    "date": "2026-05-15",
-    "status": "pending",
-    "text": "aku pernah through deworming dulu aku ingat aku sorang je (4)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-15T14:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-100",
-    "date": "2026-05-16",
-    "status": "pending",
-    "text": "korang yang tengah raw vs kibble dulu aku tak faham tapi sekarang (4)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-16T09:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-107",
-    "date": "2026-05-17",
-    "status": "pending",
-    "text": "ramai cat parent kucing tidur aku selalu cakap dengan kawan (5)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-17T06:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-112",
-    "date": "2026-05-18",
-    "status": "pending",
-    "text": "ada satu benda travel cat aku kena learn the hard way (5)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-17T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-113",
-    "date": "2026-05-18",
-    "status": "pending",
-    "text": "aku selalu fikir kucing mati rasa sebenarnya benda ni simple je (5)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-18T01:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-114",
-    "date": "2026-05-18",
-    "status": "pending",
-    "text": "lepas kucing aku kucing overgroom aku wish vet bagi tahu awal (5)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-18T04:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-116",
-    "date": "2026-05-18",
-    "status": "pending",
-    "text": "aku notice foster kucing lepas aku kena sendiri baru (5)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-18T09:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-117",
-    "date": "2026-05-18",
-    "status": "pending",
-    "text": "honestly aku tak faham TNR aku selalu cakap dengan kawan (5)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-18T11:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-119",
-    "date": "2026-05-18",
-    "status": "pending",
-    "text": "aku baru sedar kucing gemuk aku pernah rasa macam ni (5)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-18T14:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-122",
-    "date": "2026-05-19",
-    "status": "pending",
-    "text": "ramai tanya kucing korek sofa aku kena learn the hard way (5)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-19T04:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-125",
-    "date": "2026-05-19",
-    "status": "pending",
-    "text": "dulu aku skeptical cat toys dulu aku ingat aku sorang je (5)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-19T11:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-129",
-    "date": "2026-05-20",
-    "status": "pending",
-    "text": "lepas kena aku hairball aku pernah rasa macam ni (5)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-20T01:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-130",
-    "date": "2026-05-20",
-    "status": "pending",
-    "text": "korang punya kucing vaccination dulu aku tak faham tapi sekarang (6)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-20T04:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-131",
-    "date": "2026-05-20",
-    "status": "pending",
-    "text": "aku baru perasan neutering ramai orang cakap lain tapi (6)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-20T06:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-133",
-    "date": "2026-05-20",
-    "status": "pending",
-    "text": "ramai cat parent pet insurance sebenarnya benda ni simple je (6)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-20T11:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-134",
-    "date": "2026-05-20",
-    "status": "pending",
-    "text": "sejak adopt kucing water fountain aku wish vet bagi tahu awal (6)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-20T13:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-135",
-    "date": "2026-05-20",
-    "status": "pending",
-    "text": "kucing aku pernah automatic feeder dulu aku ingat aku sorang je (6)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-20T14:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-139",
-    "date": "2026-05-21",
-    "status": "pending",
-    "text": "aku selalu fikir grooming aku pernah rasa macam ni (6)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-21T06:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-142",
-    "date": "2026-05-21",
-    "status": "pending",
-    "text": "aku notice dental care aku kena learn the hard way (6)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-21T13:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-143",
-    "date": "2026-05-21",
-    "status": "pending",
-    "text": "honestly aku tak faham flea treatment sebenarnya benda ni simple je (6)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-21T14:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-147",
-    "date": "2026-05-22",
-    "status": "pending",
-    "text": "aku pernah through kucing indoor aku selalu cakap dengan kawan (6)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-22T06:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-148",
-    "date": "2026-05-22",
-    "status": "pending",
-    "text": "ramai tanya adopt vs beli honestly aku tak faham kenapa (6)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-22T09:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-149",
-    "date": "2026-05-22",
-    "status": "pending",
-    "text": "aku ingat dulu raw vs kibble aku pernah rasa macam ni (6)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-22T11:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-150",
-    "date": "2026-05-22",
-    "status": "pending",
-    "text": "sejak aku praktis cat behavior dulu aku tak faham tapi sekarang (6)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-22T13:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-151",
-    "date": "2026-05-22",
-    "status": "pending",
-    "text": "dulu aku skeptical kucing manja ramai orang cakap lain tapi (6)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-22T14:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-152",
-    "date": "2026-05-23",
-    "status": "pending",
-    "text": "korang yang tengah kucing nakal aku kena learn the hard way (6)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-22T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-153",
-    "date": "2026-05-23",
-    "status": "pending",
-    "text": "aku baru sedar vet bill sebenarnya benda ni simple je (6)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-23T01:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-156",
-    "date": "2026-05-23",
-    "status": "pending",
-    "text": "korang punya kucing kucing tidur lepas aku kena sendiri baru (7)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-23T09:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-159",
-    "date": "2026-05-23",
-    "status": "pending",
-    "text": "ramai cat parent introduce new cat aku pernah rasa macam ni (7)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-23T14:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-164",
-    "date": "2026-05-24",
-    "status": "pending",
-    "text": "ada satu benda kucing takut bunyi aku wish vet bagi tahu awal (7)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-24T09:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-166",
-    "date": "2026-05-24",
-    "status": "pending",
-    "text": "lepas kucing aku TNR lepas aku kena sendiri baru (7)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-24T13:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-174",
-    "date": "2026-05-25",
-    "status": "pending",
-    "text": "ramai tanya cat toys aku wish vet bagi tahu awal (7)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-25T13:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-182",
-    "date": "2026-05-26",
-    "status": "pending",
-    "text": "korang punya kucing pet insurance aku kena learn the hard way (8)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-26T13:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-183",
-    "date": "2026-05-26",
-    "status": "pending",
-    "text": "aku baru perasan water fountain sebenarnya benda ni simple je (8)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-26T14:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-187",
-    "date": "2026-05-27",
-    "status": "pending",
-    "text": "kucing aku pernah cat carrier aku selalu cakap dengan kawan (8)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-27T06:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-188",
-    "date": "2026-05-27",
-    "status": "pending",
-    "text": "tipulah kalau cakap grooming honestly aku tak faham kenapa (8)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-27T09:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-189",
-    "date": "2026-05-27",
-    "status": "pending",
-    "text": "dulu aku tak kisah nail trim aku pernah rasa macam ni (8)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-27T11:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-190",
-    "date": "2026-05-27",
-    "status": "pending",
-    "text": "ada satu benda ear cleaning dulu aku tak faham tapi sekarang (8)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-27T13:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-192",
-    "date": "2026-05-28",
-    "status": "pending",
-    "text": "lepas kucing aku flea treatment aku kena learn the hard way (8)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-27T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-195",
-    "date": "2026-05-28",
-    "status": "pending",
-    "text": "honestly aku tak faham kitten care dulu aku ingat aku sorang je (8)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-28T06:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-196",
-    "date": "2026-05-28",
-    "status": "pending",
-    "text": "kucing aku selalu kucing indoor lepas aku kena sendiri baru (8)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-28T09:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-199",
-    "date": "2026-05-28",
-    "status": "pending",
-    "text": "aku pernah through cat behavior aku pernah rasa macam ni (8)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-28T14:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-201",
-    "date": "2026-05-29",
-    "status": "pending",
-    "text": "aku ingat dulu kucing nakal ramai orang cakap lain tapi (8)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-29T01:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-205",
-    "date": "2026-05-29",
-    "status": "pending",
-    "text": "aku baru sedar kucing tidur dulu aku ingat aku sorang je (8)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-29T11:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-207",
-    "date": "2026-05-29",
-    "status": "pending",
-    "text": "lepas kena aku kucing clingy aku selalu cakap dengan kawan (8)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-29T14:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-223",
-    "date": "2026-05-31",
-    "status": "pending",
-    "text": "aku baru sedar cat toys sebenarnya benda ni simple je (9)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-31T14:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-224",
-    "date": "2026-06-01",
-    "status": "pending",
-    "text": "korang pernah tak cat tree aku wish vet bagi tahu awal (9)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-05-31T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-225",
-    "date": "2026-06-01",
-    "status": "pending",
-    "text": "aku pernah through laser pointer dulu aku ingat aku sorang je (9)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-01T01:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-228",
-    "date": "2026-06-01",
-    "status": "pending",
-    "text": "sejak aku praktis vaccination honestly aku tak faham kenapa (9)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-01T09:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-229",
-    "date": "2026-06-01",
-    "status": "pending",
-    "text": "dulu aku skeptical neutering aku pernah rasa macam ni (9)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-01T11:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-233",
-    "date": "2026-06-02",
-    "status": "pending",
-    "text": "lepas kena aku automatic feeder sebenarnya benda ni simple je (9)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-02T01:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-238",
-    "date": "2026-06-02",
-    "status": "pending",
-    "text": "sejak adopt kucing nail trim honestly aku tak faham kenapa (10)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-02T13:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-239",
-    "date": "2026-06-02",
-    "status": "pending",
-    "text": "kucing aku pernah ear cleaning aku pernah rasa macam ni (10)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-02T14:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-240",
-    "date": "2026-06-03",
-    "status": "pending",
-    "text": "tipulah kalau cakap dental care dulu aku tak faham tapi sekarang (10)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-02T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-241",
-    "date": "2026-06-03",
-    "status": "pending",
-    "text": "dulu aku tak kisah flea treatment ramai orang cakap lain tapi (10)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-03T01:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-243",
-    "date": "2026-06-03",
-    "status": "pending",
-    "text": "aku selalu fikir senior cat sebenarnya benda ni simple je (10)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-03T06:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-244",
-    "date": "2026-06-03",
-    "status": "pending",
-    "text": "lepas kucing aku kitten care aku wish vet bagi tahu awal (10)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-03T09:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-247",
-    "date": "2026-06-03",
-    "status": "pending",
-    "text": "honestly aku tak faham raw vs kibble aku selalu cakap dengan kawan (10)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-03T14:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-248",
-    "date": "2026-06-04",
-    "status": "pending",
-    "text": "kucing aku selalu cat behavior honestly aku tak faham kenapa (10)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-03T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-249",
-    "date": "2026-06-04",
-    "status": "pending",
-    "text": "aku baru sedar kucing manja aku pernah rasa macam ni (10)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-04T01:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-250",
-    "date": "2026-06-04",
-    "status": "pending",
-    "text": "korang pernah tak kucing nakal dulu aku tak faham tapi sekarang (10)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-04T04:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-251",
-    "date": "2026-06-04",
-    "status": "pending",
-    "text": "aku pernah through vet bill ramai orang cakap lain tapi (10)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-04T06:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-253",
-    "date": "2026-06-04",
-    "status": "pending",
-    "text": "aku ingat dulu litter box sebenarnya benda ni simple je (10)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-04T11:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-256",
-    "date": "2026-06-05",
-    "status": "pending",
-    "text": "korang yang tengah kucing clingy lepas aku kena sendiri baru (10)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-04T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-269",
-    "date": "2026-06-06",
-    "status": "pending",
-    "text": "aku selalu fikir kucing korek sofa aku pernah rasa macam ni (11)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-06T11:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-272",
-    "date": "2026-06-07",
-    "status": "pending",
-    "text": "aku notice cat toys aku kena learn the hard way (11)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-06T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-273",
-    "date": "2026-06-07",
-    "status": "pending",
-    "text": "honestly aku tak faham cat tree sebenarnya benda ni simple je (11)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-07T01:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-278",
-    "date": "2026-06-07",
-    "status": "pending",
-    "text": "ramai tanya neutering honestly aku tak faham kenapa (11)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-07T13:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-280",
-    "date": "2026-06-08",
-    "status": "pending",
-    "text": "sejak aku praktis pet insurance dulu aku tak faham tapi sekarang (11)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-07T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-282",
-    "date": "2026-06-08",
-    "status": "pending",
-    "text": "korang yang tengah automatic feeder aku kena learn the hard way (11)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-08T04:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-285",
-    "date": "2026-06-08",
-    "status": "pending",
-    "text": "lepas kena aku cat carrier dulu aku ingat aku sorang je (11)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-08T11:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-286",
-    "date": "2026-06-08",
-    "status": "pending",
-    "text": "korang punya kucing grooming lepas aku kena sendiri baru (12)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-08T13:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-288",
-    "date": "2026-06-09",
-    "status": "pending",
-    "text": "dulu aku ingat ear cleaning honestly aku tak faham kenapa (12)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-08T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-289",
-    "date": "2026-06-09",
-    "status": "pending",
-    "text": "ramai cat parent dental care aku pernah rasa macam ni (12)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-09T01:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-292",
-    "date": "2026-06-09",
-    "status": "pending",
-    "text": "tipulah kalau cakap senior cat aku kena learn the hard way (12)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-09T09:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-293",
-    "date": "2026-06-09",
-    "status": "pending",
-    "text": "dulu aku tak kisah kitten care sebenarnya benda ni simple je (12)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-09T11:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-296",
-    "date": "2026-06-10",
-    "status": "pending",
-    "text": "lepas kucing aku raw vs kibble lepas aku kena sendiri baru (12)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-09T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-300",
-    "date": "2026-06-10",
-    "status": "pending",
-    "text": "kucing aku selalu vet bill dulu aku tak faham tapi sekarang (12)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-10T09:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-301",
-    "date": "2026-06-10",
-    "status": "pending",
-    "text": "aku baru sedar kucing tak makan ramai orang cakap lain tapi (12)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-10T11:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-303",
-    "date": "2026-06-10",
-    "status": "pending",
-    "text": "aku pernah through kucing tidur sebenarnya benda ni simple je (12)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-10T14:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-304",
-    "date": "2026-06-11",
-    "status": "pending",
-    "text": "ramai tanya kucing pandang aku wish vet bagi tahu awal (12)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-10T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-307",
-    "date": "2026-06-11",
-    "status": "pending",
-    "text": "dulu aku skeptical kucing jealous aku selalu cakap dengan kawan (12)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-11T06:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-310",
-    "date": "2026-06-11",
-    "status": "pending",
-    "text": "aku selalu cakap kucing overgroom dulu aku tak faham tapi sekarang (12)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-11T13:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-311",
-    "date": "2026-06-11",
-    "status": "pending",
-    "text": "lepas kena aku kucing takut bunyi ramai orang cakap lain tapi (12)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-11T14:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-313",
-    "date": "2026-06-12",
-    "status": "pending",
-    "text": "aku baru perasan TNR sebenarnya benda ni simple je (13)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-12T01:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-315",
-    "date": "2026-06-12",
-    "status": "pending",
-    "text": "ramai cat parent kucing gemuk dulu aku ingat aku sorang je (13)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-12T06:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-318",
-    "date": "2026-06-12",
-    "status": "pending",
-    "text": "tipulah kalau cakap kucing korek sofa honestly aku tak faham kenapa (13)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-12T13:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-320",
-    "date": "2026-06-13",
-    "status": "pending",
-    "text": "ada satu benda stray feeding dulu aku tak faham tapi sekarang (13)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-12T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-325",
-    "date": "2026-06-13",
-    "status": "pending",
-    "text": "honestly aku tak faham hairball dulu aku ingat aku sorang je (13)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-13T11:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-326",
-    "date": "2026-06-13",
-    "status": "pending",
-    "text": "kucing aku selalu vaccination lepas aku kena sendiri baru (13)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-13T13:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-329",
-    "date": "2026-06-14",
-    "status": "pending",
-    "text": "aku pernah through pet insurance aku pernah rasa macam ni (13)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-14T01:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-331",
-    "date": "2026-06-14",
-    "status": "pending",
-    "text": "aku ingat dulu automatic feeder ramai orang cakap lain tapi (13)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-14T06:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-333",
-    "date": "2026-06-14",
-    "status": "pending",
-    "text": "dulu aku skeptical scratching post sebenarnya benda ni simple je (13)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-14T11:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-336",
-    "date": "2026-06-15",
-    "status": "pending",
-    "text": "aku selalu cakap nail trim lepas aku kena sendiri baru (13)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-14T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-337",
-    "date": "2026-06-15",
-    "status": "pending",
-    "text": "lepas kena aku ear cleaning aku selalu cakap dengan kawan (13)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-15T01:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-341",
-    "date": "2026-06-15",
-    "status": "pending",
-    "text": "ramai cat parent senior cat ramai orang cakap lain tapi (14)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-15T11:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-344",
-    "date": "2026-06-16",
-    "status": "pending",
-    "text": "tipulah kalau cakap adopt vs beli aku wish vet bagi tahu awal (14)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-15T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-345",
-    "date": "2026-06-16",
-    "status": "pending",
-    "text": "dulu aku tak kisah raw vs kibble dulu aku ingat aku sorang je (14)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-16T01:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-347",
-    "date": "2026-06-16",
-    "status": "pending",
-    "text": "aku selalu fikir kucing manja aku selalu cakap dengan kawan (14)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-16T06:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-349",
-    "date": "2026-06-16",
-    "status": "pending",
-    "text": "korang kena prepare vet bill aku pernah rasa macam ni (14)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-16T11:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-350",
-    "date": "2026-06-16",
-    "status": "pending",
-    "text": "aku notice kucing tak makan dulu aku tak faham tapi sekarang (14)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-16T13:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-351",
-    "date": "2026-06-16",
-    "status": "pending",
-    "text": "honestly aku tak faham litter box ramai orang cakap lain tapi (14)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-16T14:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-352",
-    "date": "2026-06-17",
-    "status": "pending",
-    "text": "kucing aku selalu kucing tidur aku kena learn the hard way (14)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-16T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-353",
-    "date": "2026-06-17",
-    "status": "pending",
-    "text": "aku baru sedar kucing pandang sebenarnya benda ni simple je (14)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-17T01:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-355",
-    "date": "2026-06-17",
-    "status": "pending",
-    "text": "aku pernah through introduce new cat dulu aku ingat aku sorang je (14)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-17T06:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-360",
-    "date": "2026-06-18",
-    "status": "pending",
-    "text": "korang yang tengah kucing takut bunyi dulu aku tak faham tapi sekarang (14)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-17T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-363",
-    "date": "2026-06-18",
-    "status": "pending",
-    "text": "lepas kena aku kucing kurus sebenarnya benda ni simple je (14)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-18T06:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-364",
-    "date": "2026-06-18",
-    "status": "pending",
-    "text": "korang punya kucing kucing gemuk aku wish vet bagi tahu awal (15)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-18T09:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-370",
-    "date": "2026-06-19",
-    "status": "pending",
-    "text": "tipulah kalau cakap cat toys dulu aku tak faham tapi sekarang (15)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-19T04:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-371",
-    "date": "2026-06-19",
-    "status": "pending",
-    "text": "dulu aku tak kisah cat tree ramai orang cakap lain tapi (15)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-19T06:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-373",
-    "date": "2026-06-19",
-    "status": "pending",
-    "text": "aku selalu fikir catnip sebenarnya benda ni simple je (15)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-19T11:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-374",
-    "date": "2026-06-19",
-    "status": "pending",
-    "text": "lepas kucing aku hairball aku wish vet bagi tahu awal (15)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-19T13:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-376",
-    "date": "2026-06-20",
-    "status": "pending",
-    "text": "aku notice neutering lepas aku kena sendiri baru (15)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-19T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-379",
-    "date": "2026-06-20",
-    "status": "pending",
-    "text": "aku baru sedar water fountain aku pernah rasa macam ni (15)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-20T06:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-382",
-    "date": "2026-06-20",
-    "status": "pending",
-    "text": "ramai tanya scratching post aku kena learn the hard way (15)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-20T13:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-392",
-    "date": "2026-06-22",
-    "status": "pending",
-    "text": "dulu aku ingat kucing indoor aku kena learn the hard way (16)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-21T23:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-394",
-    "date": "2026-06-22",
-    "status": "pending",
-    "text": "sejak adopt kucing raw vs kibble aku wish vet bagi tahu awal (16)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-22T04:00:00.000Z"
-  },
-  {
-    "id": "kq-ai-395",
-    "date": "2026-06-22",
-    "status": "pending",
-    "text": "kucing aku pernah cat behavior dulu aku ingat aku sorang je (16)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-22T06:30:00.000Z"
-  },
-  {
-    "id": "kq-ai-397",
-    "date": "2026-06-22",
-    "status": "pending",
-    "text": "dulu aku tak kisah kucing nakal aku selalu cakap dengan kawan (16)",
-    "pillar": "value-life",
-    "scheduled_utc": "2026-06-22T11:30:00.000Z"
+    "scheduled_utc": "2026-05-10T09:00:00Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T12:14:28.225Z",
+    "thread_id": "18590793934002577",
+    "thread_chain_ids": [
+      "18590793934002577"
+    ],
+    "posted_at": "2026-05-10T12:15:12.863Z"
   },
   {
     "id": "kq-hq-407",
@@ -1475,219 +334,289 @@
   },
   {
     "id": "kq-ai-412",
-    "date": "2026-05-05",
+    "date": "2026-05-11",
     "status": "pending",
     "text": "yang paling I tak boleh tolerate. orang cakap bela kucing waste duit. bro. you spend 300 on clubbing semalam. I spend 300 on kucing I. siapa waste duit sebenarnya?",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-06T04:42:46Z"
+    "scheduled_utc": "2026-05-11T04:42:46Z"
   },
   {
     "id": "kq-ai-413",
-    "date": "2026-05-05",
-    "status": "pending",
+    "date": "2026-05-10",
+    "status": "posted",
     "text": "I pernah kena marah sebab I bela 4 ekor kucing dalam apartment. jiran cakap busuk. I cakak. you duduk level bawah I dengar ke? dia senyap. sebab dia dengki je.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-06T08:42:46Z"
+    "scheduled_utc": "2026-05-10T08:42:46Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T12:05:57.440Z",
+    "thread_id": "18377031223165063",
+    "thread_chain_ids": [
+      "18377031223165063"
+    ],
+    "posted_at": "2026-05-10T12:06:38.272Z"
   },
   {
     "id": "kq-ai-414",
-    "date": "2026-05-05",
-    "status": "pending",
+    "date": "2026-05-10",
+    "status": "posted",
     "text": "korang pernah tak rasa kucing you faham you? hari I breakdown. I nangis sorang. kucing I datang. duduk tepi I. tak kacau. just ada. tu lebih therapeutic dari sesi therapy I pernah pergi.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-06T12:42:46Z"
+    "scheduled_utc": "2026-05-10T12:42:46Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T14:43:20.929Z",
+    "thread_id": "18082766177452013",
+    "thread_chain_ids": [
+      "18082766177452013"
+    ],
+    "posted_at": "2026-05-10T14:44:05.371Z"
   },
   {
     "id": "kq-ai-415",
-    "date": "2026-05-05",
+    "date": "2026-05-10",
     "status": "pending",
     "text": "I dulu fikir kena ada boyfriend untuk rasa sempurna. sekarang I rasa kena ada kucing untuk rasa sempurna. kucing tak ghost. kucing tak curang. kucing tak gaslight.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-06T16:42:46Z"
+    "scheduled_utc": "2026-05-10T16:42:46Z"
   },
   {
     "id": "kq-ai-416",
-    "date": "2026-05-05",
+    "date": "2026-05-10",
     "status": "pending",
     "text": "yang paling I tak faham. orang yang tak suka kucing tapi datang rumah I and complain. bro. kau datang rumah aku. rumah aku ada kucing. kau tak suka? keluar. simple.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-06T20:42:46Z"
+    "scheduled_utc": "2026-05-10T20:42:46Z"
   },
   {
     "id": "kq-ai-417",
-    "date": "2026-05-05",
+    "date": "2026-05-11",
     "status": "pending",
     "text": "I pernah rasa guilty sebab I bela kucing indoor je. orang cakap kesian takde freedom. tapi I tengok kucing stray kena langgar. kena racun. I rasa indoor lagi safe. love you. restrict you. tapi protect you.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-07T00:42:46Z"
+    "scheduled_utc": "2026-05-11T00:42:46Z"
   },
   {
     "id": "kq-ai-418",
-    "date": "2026-05-05",
+    "date": "2026-05-11",
     "status": "pending",
     "text": "kucing I ni diva gila. makanan certain brand je dia mau. brand lain dia usung ke tempat pasir. buang. I kena beli brand mahal. tapi bila dia manja. I lupa harga.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-07T04:42:46Z"
+    "scheduled_utc": "2026-05-11T04:42:46Z"
   },
   {
     "id": "kq-ai-419",
-    "date": "2026-05-05",
-    "status": "pending",
+    "date": "2026-05-10",
+    "status": "posted",
     "text": "I selalu kena tanya. bela kucing buat apa? takde anak ke? I cakap. kucing I adalah anak I. kau ada masalah?",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-07T08:42:46Z"
+    "scheduled_utc": "2026-05-10T08:42:46Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T12:07:38.286Z",
+    "thread_id": "17905694793241282",
+    "thread_chain_ids": [
+      "17905694793241282"
+    ],
+    "posted_at": "2026-05-10T12:08:20.433Z"
   },
   {
     "id": "kq-ai-420",
-    "date": "2026-05-05",
-    "status": "pending",
+    "date": "2026-05-10",
+    "status": "posted",
     "text": "yang paling sedih bila kucing you sakit tapi you tak boleh explain kat dia kenapa kena pi vet. dia nampak you macam pengkhianat. tapi you buat untuk baik dia. motherhood is hard even for cat moms.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-07T12:42:46Z"
+    "scheduled_utc": "2026-05-10T12:42:46Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T14:45:05.382Z",
+    "thread_id": "18210853315335791",
+    "thread_chain_ids": [
+      "18210853315335791"
+    ],
+    "posted_at": "2026-05-10T14:45:49.206Z"
   },
   {
     "id": "kq-ai-421",
-    "date": "2026-05-05",
+    "date": "2026-05-10",
     "status": "pending",
     "text": "I pernah nangis 3 hari bila kucing I mati. kawan I cakap. alah kucing je. I unfriend dia. kucing bukan je. kucing adalah family. you tak faham sebab you tak pernah sayang something unconditionally.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-07T16:42:46Z"
+    "scheduled_utc": "2026-05-10T16:42:46Z"
   },
   {
     "id": "kq-ai-422",
-    "date": "2026-05-05",
+    "date": "2026-05-10",
     "status": "pending",
     "text": "korang yang ada boyfriend tapi taknak kucing sebab boyfriend allergic. girl. boyfriend boleh tukar. kucing attachment seumur hidup. pilih wisely.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-07T20:42:46Z"
+    "scheduled_utc": "2026-05-10T20:42:46Z"
   },
   {
     "id": "kq-ai-423",
-    "date": "2026-05-05",
+    "date": "2026-05-11",
     "status": "pending",
     "text": "I baru sedar. kucing I lebih predictable dari manusia. kalau I buat mistake. kucing still sayang I. kalau I buat mistake dengan manusia. dia ingat sampai mati.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-08T00:42:46Z"
+    "scheduled_utc": "2026-05-11T00:42:46Z"
   },
   {
     "id": "kq-ai-424",
-    "date": "2026-05-05",
+    "date": "2026-05-11",
     "status": "pending",
     "text": "I dulu ingat kucing takde perasaan. tapi bila I balik dari travel 3 hari. kucing I tak makan 2 hari. tunggu I balik. rupanya dia sayang I. dia just tak show macam anjing je.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-08T04:42:46Z"
+    "scheduled_utc": "2026-05-11T04:42:46Z"
   },
   {
     "id": "kq-ai-425",
-    "date": "2026-05-05",
-    "status": "pending",
+    "date": "2026-05-10",
+    "status": "posted",
     "text": "yang paling I tak boleh blah. orang yang adopt kucing lepas tu return sebab dia garang. bro. kucing you baru 3 hari. dia tak kenal you lagi. you expect dia cium tangan? give it time.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-08T08:42:46Z"
+    "scheduled_utc": "2026-05-10T08:42:46Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T12:09:20.447Z",
+    "thread_id": "18117138142684299",
+    "thread_chain_ids": [
+      "18117138142684299"
+    ],
+    "posted_at": "2026-05-10T12:10:02.080Z"
   },
   {
     "id": "kq-ai-426",
-    "date": "2026-05-05",
-    "status": "pending",
+    "date": "2026-05-10",
+    "status": "posted",
     "text": "I pernah kena judge sebab I spend RM200 on kucing birthday party. ada cake. ada hadiah. ada photo shoot. orang cakap gila. I cakak. at least I happy. you judge orang tapi you unhappy. siapa gila sebenarnya?",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-08T12:42:46Z"
+    "scheduled_utc": "2026-05-10T12:42:46Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T14:46:49.217Z",
+    "thread_id": "18137982178522853",
+    "thread_chain_ids": [
+      "18137982178522853"
+    ],
+    "posted_at": "2026-05-10T14:47:31.505Z"
   },
   {
     "id": "kq-ai-427",
-    "date": "2026-05-05",
+    "date": "2026-05-10",
     "status": "pending",
     "text": "kucing I ada habit bangun 4 pagi and lari lari macam hantu. I marah. tapi I sedar. dia cuma active time. dia bukan sengaja. jadi I adjust. I tidur awal. relationship is about compromise. even with cats.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-08T16:42:46Z"
+    "scheduled_utc": "2026-05-10T16:42:46Z"
   },
   {
     "id": "kq-ai-428",
-    "date": "2026-05-05",
+    "date": "2026-05-10",
     "status": "pending",
     "text": "I rasa macam kucing I adalah mirror I. bila I stress. dia clingy. bila I okay. dia independent. dia rasa energy I. animals know.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-08T20:42:46Z"
+    "scheduled_utc": "2026-05-10T20:42:46Z"
   },
   {
     "id": "kq-ai-429",
-    "date": "2026-05-05",
+    "date": "2026-05-11",
     "status": "pending",
     "text": "yang paling I regret. I pernah bela kucing then give up sebab busy. I hantar shelter. sampai sekarang I rasa guilty. kucing tu ingat I. tapi I tinggal dia. jangan buat macam tu. bela means commit.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-09T00:42:46Z"
+    "scheduled_utc": "2026-05-11T00:42:46Z"
   },
   {
     "id": "kq-ai-430",
-    "date": "2026-05-05",
+    "date": "2026-05-11",
     "status": "pending",
     "text": "korang pernah tak rasa kucing you protect you? ada orang datang rumah. kucing I standby depan pintu. mata tajam. dia tahu stranger. dia protect territory. dia protect I.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-09T04:42:46Z"
+    "scheduled_utc": "2026-05-11T04:42:46Z"
   },
   {
     "id": "kq-ai-431",
-    "date": "2026-05-05",
-    "status": "pending",
+    "date": "2026-05-10",
+    "status": "posted",
     "text": "I dulu ingat kena ada rumah besar untuk bela banyak kucing. tapi I bela 3 ekor dalam studio. cukup. asal ada kasih sayang. space kecil tapi heart besar.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-09T08:42:46Z"
+    "scheduled_utc": "2026-05-10T08:42:46Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T12:00:49.973Z",
+    "thread_id": "17983174076989484",
+    "thread_chain_ids": [
+      "17983174076989484"
+    ],
+    "posted_at": "2026-05-10T12:01:35.773Z"
   },
   {
     "id": "kq-ai-432",
-    "date": "2026-05-05",
-    "status": "pending",
+    "date": "2026-05-10",
+    "status": "posted",
     "text": "I selalu kena cakap. bela kucing ni lelaki tak suka. I cakak. lelaki yang tak suka kucing I. bukan I yang kena suka dia. I dan kucing I package deal. take it or leave it.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-09T12:42:46Z"
+    "scheduled_utc": "2026-05-10T12:42:46Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T14:48:31.519Z",
+    "thread_id": "18094236052899652",
+    "thread_chain_ids": [
+      "18094236052899652"
+    ],
+    "posted_at": "2026-05-10T14:49:14.821Z"
   },
   {
     "id": "kq-ai-433",
-    "date": "2026-05-05",
+    "date": "2026-05-10",
     "status": "pending",
     "text": "I pernah rasa nak mati. then kucing I datang. pusing kaki I. meow. macam cakap. jangan pergi. I stay sebab dia. sometimes your purpose is smaller than you think. but it is enough.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-09T16:42:46Z"
+    "scheduled_utc": "2026-05-10T16:42:46Z"
   },
   {
     "id": "kq-ai-434",
-    "date": "2026-05-05",
+    "date": "2026-05-10",
     "status": "pending",
     "text": "yang paling I tak faham. orang yang beli kucing mahal dari breeder then complain pasal duit. bro. kau beli kucing 3k. kau expect maintenance 50 sebulan? reality check.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-09T20:42:46Z"
+    "scheduled_utc": "2026-05-10T20:42:46Z"
   },
   {
     "id": "kq-ai-435",
-    "date": "2026-05-05",
+    "date": "2026-05-11",
     "status": "pending",
     "text": "I baru lepas argue dengan family sebab I prioritize kencing kucing over family dinner. sorry. kucing I tak boleh tahan. family you boleh. plus. kucing I tak judge I. family you judge.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-10T00:42:46Z"
+    "scheduled_utc": "2026-05-11T00:42:46Z"
   },
   {
     "id": "kq-ai-436",
-    "date": "2026-05-05",
+    "date": "2026-05-11",
     "status": "pending",
     "text": "I rasa kucing I lebih faham I dari most people. I sedih. dia datang. I happy. dia main. I marah. dia pergi jauh sikit. tapi still dalam bilik. dia tahu boundaries. dia respect space.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-10T04:42:46Z"
+    "scheduled_utc": "2026-05-11T04:42:46Z"
   },
   {
     "id": "kq-ai-437",
     "date": "2026-05-05",
-    "status": "pending",
+    "status": "posted",
     "text": "korang pernah tak nangis sebab kucing you tua? I tengok kucing I 8 tahun now. dia dah slow. dah tak lompat tinggi. I sedih sebab I tahu. our time is limited. tu why I cherish every moment.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-10T08:42:46Z"
+    "scheduled_utc": "2026-05-10T08:42:46Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T11:59:03.615Z",
+    "thread_id": "18009047648904988",
+    "thread_chain_ids": [
+      "18009047648904988"
+    ],
+    "posted_at": "2026-05-10T11:59:49.929Z"
   },
   {
     "id": "kq-ai-438",
     "date": "2026-05-05",
-    "status": "pending",
+    "status": "posted",
     "text": "I dulu tak faham orang yang sayang kucing gila gila. sekarang I adalah orang tu. and I tak regret. kucing ajar I pasal unconditional love. patience. and letting go.",
     "pillar": "value-life",
-    "scheduled_utc": "2026-05-10T12:42:46Z"
+    "scheduled_utc": "2026-05-10T12:42:46Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T14:50:14.834Z",
+    "thread_id": "18083209877420897",
+    "thread_chain_ids": [
+      "18083209877420897"
+    ],
+    "posted_at": "2026-05-10T14:50:57.325Z"
   },
   {
     "id": "kq-ai-439",
@@ -1696,5 +625,220 @@
     "text": "yang paling I tak boleh. orang cakap kucing takde soul. tengok mata kucing you. dia rasa. dia fikir. dia sayang. just sebab dia tak cakak human language. takde soul? you yang takde soul.",
     "pillar": "value-life",
     "scheduled_utc": "2026-05-10T16:42:46Z"
+  },
+  {
+    "id": "kq-gen-1778419108175",
+    "slot": "morning",
+    "text": "my cat heard me open a can of tuna from two floors up and came running like i set off a fire alarm. she ignores me the rest of the day though 💀",
+    "pillar": "story",
+    "status": "posted",
+    "strategy": {
+      "contentType": "story",
+      "generated_by": "tun-perak"
+    },
+    "date": "2026-05-10",
+    "scheduled_utc": "2026-05-10T08:18:28Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T13:19:13.112Z",
+    "thread_id": "18115967551754543",
+    "thread_chain_ids": [
+      "18115967551754543"
+    ],
+    "posted_at": "2026-05-10T13:19:54.510Z"
+  },
+  {
+    "id": "kq-gen-1778419108176",
+    "slot": "afternoon",
+    "text": "i learned the hard way that cats hide pain really well. my girl was acting normal but turns out she had a urinary tract infection. now i’m crazy about checking her litter box habits",
+    "pillar": "funny",
+    "status": "posted",
+    "strategy": {
+      "contentType": "funny",
+      "generated_by": "tun-perak"
+    },
+    "date": "2026-05-10",
+    "scheduled_utc": "2026-05-10T13:18:28Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T15:18:57.461Z",
+    "thread_id": "18322553878268232",
+    "thread_chain_ids": [
+      "18322553878268232"
+    ],
+    "posted_at": "2026-05-10T15:19:42.083Z"
+  },
+  {
+    "id": "kq-gen-1778419108177",
+    "slot": "night",
+    "text": "korang punya kucing suka duduk dalam kotak sampai tak nak keluar ke? mine will pick a random shoebox over her RM200 cat bed every single time",
+    "pillar": "hot-take",
+    "status": "pending",
+    "strategy": {
+      "contentType": "hot-take",
+      "generated_by": "tun-perak"
+    },
+    "date": "2026-05-10",
+    "scheduled_utc": "2026-05-10T21:18:28Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T13:18:28.175371"
+  },
+  {
+    "id": "kq-gen-1778419108178",
+    "slot": "morning",
+    "text": "bought this RM12 catnip toy from Shopee and my cat is currently having a full existential crisis rolling on the floor. money well spent",
+    "pillar": "lesson",
+    "status": "pending",
+    "strategy": {
+      "contentType": "lesson",
+      "generated_by": "tun-perak"
+    },
+    "date": "2026-05-10",
+    "scheduled_utc": "2026-05-11T08:18:28Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T13:18:28.175371"
+  },
+  {
+    "id": "kq-gen-1778419108179",
+    "slot": "afternoon",
+    "text": "my cat sleeps 16 hours a day and still looks exhausted. i think she might be secretly working a night shift i don’t know about 😂",
+    "pillar": "ask",
+    "status": "pending",
+    "strategy": {
+      "contentType": "ask",
+      "generated_by": "tun-perak"
+    },
+    "date": "2026-05-10",
+    "scheduled_utc": "2026-05-11T13:18:28Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T13:18:28.175371"
+  },
+  {
+    "id": "kq-gen-1778419108180",
+    "slot": "night",
+    "text": "why do cats decide to sit on your laptop the second you have an important meeting. mine just walked across my keyboard and deleted half my email. she’s lucky she’s cute",
+    "pillar": "soft-shill",
+    "status": "pending",
+    "strategy": {
+      "contentType": "soft-shill",
+      "generated_by": "tun-perak"
+    },
+    "date": "2026-05-10",
+    "scheduled_utc": "2026-05-11T21:18:28Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T13:18:28.175371"
+  },
+  {
+    "id": "kq-gen-1778419108181",
+    "slot": "morning",
+    "text": "i used to think my cat hated me but then i realised she just wants to be fed at 6am sharp every day. now i know it’s a contractual obligation not love",
+    "pillar": "story",
+    "status": "pending",
+    "strategy": {
+      "contentType": "story",
+      "generated_by": "tun-perak"
+    },
+    "date": "2026-05-10",
+    "scheduled_utc": "2026-05-12T08:18:28Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T13:18:28.175371"
+  },
+  {
+    "id": "kq-gen-1778419379064",
+    "slot": "morning",
+    "text": "my cat just sat on my laptop while i was in the middle of a work meeting. i had to tell my boss \"sorry my supervisor stepped in\" 😂",
+    "pillar": "story",
+    "status": "posted",
+    "strategy": {
+      "contentType": "story",
+      "generated_by": "tun-perak"
+    },
+    "date": "2026-05-10",
+    "scheduled_utc": "2026-05-10T08:22:59Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T13:23:54.535Z",
+    "thread_id": "17854611498661388",
+    "thread_chain_ids": [
+      "17854611498661388"
+    ],
+    "posted_at": "2026-05-10T13:24:39.766Z"
+  },
+  {
+    "id": "kq-gen-1778419583855",
+    "slot": "morning",
+    "text": "kucing aku bangun pukul 4 pagi tadi sebab nak makan. aku bagitahu dia pukul 6 baru breakfast. dia pandang aku macam aku ni derhaka.",
+    "pillar": "story",
+    "status": "posted",
+    "strategy": {
+      "contentType": "story",
+      "generated_by": "tun-perak"
+    },
+    "date": "2026-05-10",
+    "scheduled_utc": "2026-05-10T08:26:23Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T13:26:39.778Z",
+    "thread_id": "18102185948048420",
+    "thread_chain_ids": [
+      "18102185948048420"
+    ],
+    "posted_at": "2026-05-10T13:27:20.667Z"
+  },
+  {
+    "id": "kq-gen-1778419583856",
+    "slot": "afternoon",
+    "text": "kenapa kucing suka duduk atas keyboard laptop aku time meeting. dia tau aku tengah kerja ke dia pretend je",
+    "pillar": "funny",
+    "status": "pending",
+    "strategy": {
+      "contentType": "funny",
+      "generated_by": "tun-perak"
+    },
+    "date": "2026-05-10",
+    "scheduled_utc": "2026-05-10T13:26:23Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T13:26:23.855028"
+  },
+  {
+    "id": "kq-gen-1778419583857",
+    "slot": "night",
+    "text": "aku tak tau kucing boleh kena UTI sebab stress. vet cakap kucing aku stress kot sebab aku selalu outstation. guilt trip gila",
+    "pillar": "hot-take",
+    "status": "pending",
+    "strategy": {
+      "contentType": "hot-take",
+      "generated_by": "tun-perak"
+    },
+    "date": "2026-05-10",
+    "scheduled_utc": "2026-05-10T21:26:23Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T13:26:23.855028"
+  },
+  {
+    "id": "kq-gen-1778419583858",
+    "slot": "morning",
+    "text": "beli mainan fishing rod kat shopee rm15 and sekarang kucing aku gila main. lari sana sini macam nak bunuh tikus padahal tali je",
+    "pillar": "lesson",
+    "status": "pending",
+    "strategy": {
+      "contentType": "lesson",
+      "generated_by": "tun-perak"
+    },
+    "date": "2026-05-10",
+    "scheduled_utc": "2026-05-11T08:26:23Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T13:26:23.855028"
+  },
+  {
+    "id": "kq-gen-1778419583859",
+    "slot": "afternoon",
+    "text": "kucing indoor mmg manja gila. budak kecik pun tak demanding macam kucing aku bila mintak attention",
+    "pillar": "ask",
+    "status": "pending",
+    "strategy": {
+      "contentType": "ask",
+      "generated_by": "tun-perak"
+    },
+    "date": "2026-05-10",
+    "scheduled_utc": "2026-05-11T13:26:23Z",
+    "preflight_error": null,
+    "preflight_checked_at": "2026-05-10T13:26:23.855028"
   }
 ]

@@ -1,0 +1,28 @@
+{
+  "type_performance": {
+    "funny": {
+      "tried": 1,
+      "wins": 0
+    },
+    "storytime-long": {
+      "tried": 1,
+      "wins": 0
+    }
+  },
+  "topic_performance": {},
+  "generation_history": [
+    {
+      "time": "2026-05-10T13:22:59.068385",
+      "types": [
+        "funny",
+        "storytime-long"
+      ],
+      "count": 2
+    }
+  ],
+  "fatigue_tracker": {
+    "funny": 0,
+    "storytime-long": 0
+  },
+  "wildcards_tried": []
+}
